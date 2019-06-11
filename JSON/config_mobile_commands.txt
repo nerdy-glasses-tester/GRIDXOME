@@ -1,0 +1,15 @@
+cd to seleniumgrid folder then run java
+Start Hub:
+java -jar selenium-server-standalone-3.141.59.jar -role hub -hubConfig HubMobile.json
+
+Device 1:
+appium -p 4567 -bp 5555 -U ecbfd827b282a9dc --tmp /tmp/galaxytaba2017 --webdriveragent-port 8200 --nodeconfig "/Users/angee/seleniumgrid/GalaxyTabA2017node.json" --log "/Users/angee/seleniumgrid/logs/GalaxyTabA2017-appium.log" --session-override
+
+Device 2:
+appium -p 4568 -bp 6666 -U HT4CJJT00982 --tmp /tmp/nexus --webdriveragent-port 8201 --nodeconfig "/Users/angee/seleniumgrid/Nexusnode.json" --log "/Users/angee/seleniumgrid/logs/Nexus-appium.log" --session-override
+
+
+
+
+
+

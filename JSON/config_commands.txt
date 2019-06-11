@@ -1,0 +1,13 @@
+cd to seleniumgrid folder then run java -jar selenium-server-standalone-3.141.59.jar -role hub -hubConfig Hub.json
+
+java -Dwebdriver.chrome.driver="C:\\seleniumgrid\\chromedriver.exe" -Dwebdriver.gecko.driver="C:\\seleniumgrid\\geckodriver.exe" -Dwebdriver.ie.driver="C:\\seleniumgrid\\IEDriverServer.exe" -Dwebdriver.edge.driver="C:\\seleniumgrid\\MicrosoftWebDriver.exe" -jar C:\\seleniumgrid\\selenium-server-standalone-3.141.59.jar -role node -nodeConfig C:\\seleniumgrid\\WindowsNode.json
+
+java -Dwebdriver.chrome.driver="/Users/angee/seleniumgrid/chromedriver" -Dwebdriver.gecko.driver="/Users/angee/seleniumgrid/geckodriver"  -jar /Users/angee/seleniumgrid/selenium-server-standalone-3.141.59.jar -role node -nodeConfig /Users/angee/seleniumgrid/MacNode.json
+
+
+
+appium -a localhost --nodeconfig appiumnode.json
+
+
+
+

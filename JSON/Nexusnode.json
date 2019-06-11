@@ -1,0 +1,31 @@
+{
+  "capabilities": [
+
+    {
+      "browserName": "Nexus",
+      "version": "7.1.1",
+      "maxInstances": 1,
+      "platform": "Android",
+      "platformName": "Android",
+      "deviceName": "Nexus"
+    }
+  ],
+  "configuration": {
+    "cleanUpCycle": 5000,
+    "registerCycle": 5000,
+    "nodeTimeout": 120,
+    "timeout": 600000,
+    "nodePolling": 2000,
+    "hub": "http://xxx.xxx.x.x:4444/grid/register",
+    "proxy": "org.openqa.grid.selenium.proxy.DefaultRemoteProxy",
+    "maxSession": 1,
+    "port": 6666,
+    "host": "xxx.xxx.x.x",
+    "register": true,
+    "hubPort": 4444,
+    "hubHost": "xxx.xxx.x.x",
+    "role": "node"
+  }
+
+
+}

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="XOME Suite" parallel="tests" verbose="10" thread-count="2">
+
+	<listeners>
+	    <listener class-name="common.TestListener" />
+	</listeners>  
+
+	<test name = "Win Firefox Tests" preserve-order="true" group-by-instances="true">
+    <parameter name="browser" value="firefox">
+    <parameter name="platform" value="WINDOWS">
+		<classes>
+		<class name="webTests.Login_NegativeTests" />
+		<class name="webTests.Login_and_Search" />
+		<class name="webTests.SearchforSpecificProperty" />
+	    <class name="webTests.SignUp_NegativeTests" />
+        	<class name="webTests.SignUp_NewUser" />
+        <class name="webTests.SortResultsByPriceBedBath" />
+        	<class name="webTests.FilterMoreResultsByKeyword" />
+        	<class name="webTests.FilterMoreResultsByPropertyType" />
+        	<class name="webTests.FilterMoreResultsByResidentialOptions" />
+        	<class name="webTests.FilterMoreResultsBySquareFeet" />
+        	<class name="webTests.FilterMoreResultsByStatus" />        	
+        	<class name="webTests.FilterMoreResultsByYear" />
+		</classes>
+	</parameter>
+    </parameter>
+	</test>
+	
+	<test name = "Mac Firefox Tests" preserve-order="true" group-by-instances="true">
+    <parameter name="browser" value="firefox">
+    <parameter name="platform" value="MAC">
+		<classes>
+		<class name="webTests.Login_NegativeTests" />
+		<class name="webTests.Login_and_Search" />
+		<class name="webTests.SearchforSpecificProperty" />
+	    <class name="webTests.SignUp_NegativeTests" />
+        	<class name="webTests.SignUp_NewUser" />
+        <class name="webTests.SortResultsByPriceBedBath" />
+        	<class name="webTests.FilterMoreResultsByKeyword" />
+        	<class name="webTests.FilterMoreResultsByPropertyType" />
+        	<class name="webTests.FilterMoreResultsByResidentialOptions" />
+        	<class name="webTests.FilterMoreResultsBySquareFeet" />
+        	<class name="webTests.FilterMoreResultsByStatus" />        	
+        	<class name="webTests.FilterMoreResultsByYear" />
+		</classes>
+	</parameter>
+	</parameter>
+	</test>
+
+	<test name = "Win Chrome Tests" preserve-order="true" group-by-instances="true">
+    <parameter name="browser" value="chrome">
+    <parameter name="platform" value="WINDOWS">
+		<classes>
+		<class name="webTests.Login_NegativeTests" />
+		<class name="webTests.Login_and_Search" />
+		<class name="webTests.SearchforSpecificProperty" />
+	    <class name="webTests.SignUp_NegativeTests" />
+        	<class name="webTests.SignUp_NewUser" />
+        <class name="webTests.SortResultsByPriceBedBath" />
+        	<class name="webTests.FilterMoreResultsByKeyword" />
+        	<class name="webTests.FilterMoreResultsByPropertyType" />
+        	<class name="webTests.FilterMoreResultsByResidentialOptions" />
+        	<class name="webTests.FilterMoreResultsBySquareFeet" />
+        	<class name="webTests.FilterMoreResultsByStatus" />        	
+        	<class name="webTests.FilterMoreResultsByYear" />
+		</classes>
+	</parameter>
+	</parameter>
+	</test>
+	<test name = "Mac Chrome Tests" preserve-order="true" group-by-instances="true">
+    <parameter name="browser" value="chrome">
+    <parameter name="platform" value="MAC">
+		<classes>
+		<class name="webTests.Login_NegativeTests" />
+		<class name="webTests.Login_and_Search" />
+		<class name="webTests.SearchforSpecificProperty" />
+	    <class name="webTests.SignUp_NegativeTests" />
+        	<class name="webTests.SignUp_NewUser" />
+        <class name="webTests.SortResultsByPriceBedBath" />
+        	<class name="webTests.FilterMoreResultsByKeyword" />
+        	<class name="webTests.FilterMoreResultsByPropertyType" />
+        	<class name="webTests.FilterMoreResultsByResidentialOptions" />
+        	<class name="webTests.FilterMoreResultsBySquareFeet" />
+        	<class name="webTests.FilterMoreResultsByStatus" />        	
+        	<class name="webTests.FilterMoreResultsByYear" />
+		</classes>
+	</parameter>
+	</parameter>
+	</test>
+</suite>
+<!--
+   <test name = "Safari Tests" preserve-order="true" group-by-instances="true">
+    <parameter name="browser" value="safari">
+    <parameter name="platform" value="MAC">
+		<classes>
+        	<class name="webTests.FilterMoreResultsByKeyword" />
+        <class name="webTests.FilterMoreResultsByYear" />
+		</classes>
+	</parameter>
+	</parameter>
+	</test>
+	
+	<test name = "Internet Explorer Tests" preserve-order="true" group-by-instances="true">
+    <parameter name="browser" value="iexplorer">
+    <parameter name="platform" value="WINDOWS">
+		<classes>
+        	<class name="webTests.FilterMoreResultsByKeyword" />
+        <class name="webTests.FilterMoreResultsByYear" />
+		</classes>
+	</parameter>
+	</parameter>
+	</test>
+	-->
+

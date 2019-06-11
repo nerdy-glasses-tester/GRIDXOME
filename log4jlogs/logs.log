@@ -1,0 +1,936 @@
+2019-04-24 12:16:01 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:566 - It filtered by square feet correctly
+2019-04-24 12:16:59 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:972 - search keyword: hardwood floor
+2019-04-24 12:16:59 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:973 - prop1_description matches: yes
+2019-04-24 12:16:59 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:974 - prop2_description matches: yes
+2019-04-24 12:16:59 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:975 - prop3_description matches: yes
+2019-04-24 12:16:59 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:976 - prop4_description matches: yes
+2019-04-24 12:16:59 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:977 - prop5_description matches: yes
+2019-04-24 12:16:59 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:982 - It filtered by keyword correctly
+2019-04-24 12:17:02 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:972 - search keyword: hardwood floor
+2019-04-24 12:17:02 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:973 - prop1_description matches: yes
+2019-04-24 12:17:02 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:974 - prop2_description matches: yes
+2019-04-24 12:17:02 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:975 - prop3_description matches: yes
+2019-04-24 12:17:02 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:976 - prop4_description matches: yes
+2019-04-24 12:17:02 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:977 - prop5_description matches: yes
+2019-04-24 12:17:02 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:982 - It filtered by keyword correctly
+2019-04-24 12:17:54 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:566 - It filtered by square feet correctly
+2019-04-24 12:18:13 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:566 - It filtered by square feet correctly
+2019-04-24 12:18:56 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:972 - search keyword: hardwood floor
+2019-04-24 12:18:56 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:973 - prop1_description matches: yes
+2019-04-24 12:18:56 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:974 - prop2_description matches: yes
+2019-04-24 12:18:56 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:975 - prop3_description matches: yes
+2019-04-24 12:18:56 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:976 - prop4_description matches: yes
+2019-04-24 12:18:56 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:977 - prop5_description matches: yes
+2019-04-24 12:18:56 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:982 - It filtered by keyword correctly
+2019-04-24 12:19:36 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:972 - search keyword: hardwood floor
+2019-04-24 12:19:36 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:973 - prop1_description matches: yes
+2019-04-24 12:19:36 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:974 - prop2_description matches: yes
+2019-04-24 12:19:36 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:975 - prop3_description matches: yes
+2019-04-24 12:19:36 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:976 - prop4_description matches: yes
+2019-04-24 12:19:36 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:977 - prop5_description matches: yes
+2019-04-24 12:19:36 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:982 - It filtered by keyword correctly
+2019-04-24 12:29:56 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:972 - search keyword: hardwood floor
+2019-04-24 12:29:56 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:973 - prop1_description matches: yes
+2019-04-24 12:29:56 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:974 - prop2_description matches: yes
+2019-04-24 12:29:56 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:975 - prop3_description matches: yes
+2019-04-24 12:29:56 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:976 - prop4_description matches: yes
+2019-04-24 12:29:56 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:977 - prop5_description matches: yes
+2019-04-24 12:29:56 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:982 - It filtered by keyword correctly
+2019-04-24 12:30:00 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:566 - It filtered by square feet correctly
+2019-04-24 12:31:07 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:566 - It filtered by square feet correctly
+2019-04-24 12:31:56 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:972 - search keyword: hardwood floor
+2019-04-24 12:31:56 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:973 - prop1_description matches: yes
+2019-04-24 12:31:56 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:974 - prop2_description matches: yes
+2019-04-24 12:31:56 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:975 - prop3_description matches: yes
+2019-04-24 12:31:56 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:976 - prop4_description matches: yes
+2019-04-24 12:31:56 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:977 - prop5_description matches: yes
+2019-04-24 12:31:56 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:982 - It filtered by keyword correctly
+2019-04-24 12:32:45 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:972 - search keyword: hardwood floor
+2019-04-24 12:32:45 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:973 - prop1_description matches: yes
+2019-04-24 12:32:45 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:974 - prop2_description matches: yes
+2019-04-24 12:32:45 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:975 - prop3_description matches: yes
+2019-04-24 12:32:45 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:976 - prop4_description matches: yes
+2019-04-24 12:32:45 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:977 - prop5_description matches: yes
+2019-04-24 12:32:45 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:982 - It filtered by keyword correctly
+2019-04-24 12:32:46 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:566 - It filtered by square feet correctly
+2019-04-24 12:33:49 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:972 - search keyword: hardwood floor
+2019-04-24 12:33:49 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:973 - prop1_description matches: yes
+2019-04-24 12:33:49 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:974 - prop2_description matches: yes
+2019-04-24 12:33:49 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:975 - prop3_description matches: yes
+2019-04-24 12:33:49 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:976 - prop4_description matches: yes
+2019-04-24 12:33:49 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:977 - prop5_description matches: yes
+2019-04-24 12:33:49 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:982 - It filtered by keyword correctly
+2019-04-24 12:45:25 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:566 - It filtered by square feet correctly
+2019-04-24 12:46:18 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:972 - search keyword: hardwood floor
+2019-04-24 12:46:18 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:973 - prop1_description matches: yes
+2019-04-24 12:46:18 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:974 - prop2_description matches: yes
+2019-04-24 12:46:18 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:975 - prop3_description matches: yes
+2019-04-24 12:46:18 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:976 - prop4_description matches: yes
+2019-04-24 12:46:18 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:977 - prop5_description matches: yes
+2019-04-24 12:46:18 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:982 - It filtered by keyword correctly
+2019-04-24 12:46:25 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:972 - search keyword: hardwood floor
+2019-04-24 12:46:25 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:973 - prop1_description matches: yes
+2019-04-24 12:46:25 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:974 - prop2_description matches: yes
+2019-04-24 12:46:25 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:975 - prop3_description matches: yes
+2019-04-24 12:46:25 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:976 - prop4_description matches: yes
+2019-04-24 12:46:25 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:977 - prop5_description matches: yes
+2019-04-24 12:46:25 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:982 - It filtered by keyword correctly
+2019-04-24 12:47:11 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:566 - It filtered by square feet correctly
+2019-04-24 12:47:24 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:566 - It filtered by square feet correctly
+2019-04-24 12:48:14 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:972 - search keyword: hardwood floor
+2019-04-24 12:48:14 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:973 - prop1_description matches: yes
+2019-04-24 12:48:14 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:974 - prop2_description matches: yes
+2019-04-24 12:48:14 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:975 - prop3_description matches: yes
+2019-04-24 12:48:14 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:976 - prop4_description matches: yes
+2019-04-24 12:48:14 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:977 - prop5_description matches: yes
+2019-04-24 12:48:14 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:982 - It filtered by keyword correctly
+2019-04-24 12:49:01 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:972 - search keyword: hardwood floor
+2019-04-24 12:49:01 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:973 - prop1_description matches: yes
+2019-04-24 12:49:01 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:974 - prop2_description matches: yes
+2019-04-24 12:49:01 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:975 - prop3_description matches: yes
+2019-04-24 12:49:01 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:976 - prop4_description matches: yes
+2019-04-24 12:49:01 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:977 - prop5_description matches: yes
+2019-04-24 12:49:01 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:982 - It filtered by keyword correctly
+2019-04-24 18:32:32 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:972 - search keyword: hardwood floor
+2019-04-24 18:32:32 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:973 - prop1_description matches: yes
+2019-04-24 18:32:32 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:974 - prop2_description matches: yes
+2019-04-24 18:32:32 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:975 - prop3_description matches: yes
+2019-04-24 18:32:32 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:976 - prop4_description matches: yes
+2019-04-24 18:32:32 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:977 - prop5_description matches: yes
+2019-04-24 18:32:32 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:982 - It filtered by keyword correctly
+2019-04-24 18:32:42 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:566 - It filtered by square feet correctly
+2019-04-24 18:33:45 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:566 - It filtered by square feet correctly
+2019-04-24 18:35:12 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:972 - search keyword: hardwood floor
+2019-04-24 18:35:12 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:973 - prop1_description matches: yes
+2019-04-24 18:35:12 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:974 - prop2_description matches: yes
+2019-04-24 18:35:12 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:975 - prop3_description matches: yes
+2019-04-24 18:35:12 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:976 - prop4_description matches: yes
+2019-04-24 18:35:12 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:977 - prop5_description matches: yes
+2019-04-24 18:35:12 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:982 - It filtered by keyword correctly
+2019-04-24 18:35:38 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:566 - It filtered by square feet correctly
+2019-04-24 18:36:38 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:972 - search keyword: hardwood floor
+2019-04-24 18:36:38 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:973 - prop1_description matches: yes
+2019-04-24 18:36:38 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:974 - prop2_description matches: yes
+2019-04-24 18:36:38 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:975 - prop3_description matches: yes
+2019-04-24 18:36:38 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:976 - prop4_description matches: yes
+2019-04-24 18:36:38 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:977 - prop5_description matches: yes
+2019-04-24 18:36:38 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:982 - It filtered by keyword correctly
+2019-04-24 18:40:32 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:972 - search keyword: hardwood floor
+2019-04-24 18:40:32 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:973 - prop1_description matches: yes
+2019-04-24 18:40:32 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:974 - prop2_description matches: yes
+2019-04-24 18:40:32 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:975 - prop3_description matches: yes
+2019-04-24 18:40:32 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:976 - prop4_description matches: yes
+2019-04-24 18:40:32 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:977 - prop5_description matches: yes
+2019-04-24 18:40:32 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:982 - It filtered by keyword correctly
+2019-04-24 18:40:38 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:566 - It filtered by square feet correctly
+2019-04-24 18:41:41 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:566 - It filtered by square feet correctly
+2019-04-24 18:42:40 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:972 - search keyword: hardwood floor
+2019-04-24 18:42:40 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:973 - prop1_description matches: yes
+2019-04-24 18:42:40 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:974 - prop2_description matches: yes
+2019-04-24 18:42:40 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:975 - prop3_description matches: yes
+2019-04-24 18:42:40 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:976 - prop4_description matches: yes
+2019-04-24 18:42:40 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:977 - prop5_description matches: yes
+2019-04-24 18:42:40 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:982 - It filtered by keyword correctly
+2019-04-24 18:43:32 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:972 - search keyword: hardwood floor
+2019-04-24 18:43:32 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:973 - prop1_description matches: yes
+2019-04-24 18:43:32 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:974 - prop2_description matches: yes
+2019-04-24 18:43:32 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:975 - prop3_description matches: yes
+2019-04-24 18:43:32 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:976 - prop4_description matches: yes
+2019-04-24 18:43:32 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:977 - prop5_description matches: yes
+2019-04-24 18:43:32 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:982 - It filtered by keyword correctly
+2019-04-24 18:43:32 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:566 - It filtered by square feet correctly
+2019-04-24 18:44:33 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:972 - search keyword: hardwood floor
+2019-04-24 18:44:33 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:973 - prop1_description matches: yes
+2019-04-24 18:44:33 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:974 - prop2_description matches: yes
+2019-04-24 18:44:33 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:975 - prop3_description matches: yes
+2019-04-24 18:44:33 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:976 - prop4_description matches: yes
+2019-04-24 18:44:33 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:977 - prop5_description matches: yes
+2019-04-24 18:44:33 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:982 - It filtered by keyword correctly
+2019-04-24 20:04:48 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:566 - It filtered by square feet correctly
+2019-04-24 20:04:49 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:972 - search keyword: hardwood floor
+2019-04-24 20:04:49 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:973 - prop1_description matches: yes
+2019-04-24 20:04:49 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:974 - prop2_description matches: yes
+2019-04-24 20:04:49 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:975 - prop3_description matches: yes
+2019-04-24 20:04:49 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:976 - prop4_description matches: yes
+2019-04-24 20:04:49 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:977 - prop5_description matches: yes
+2019-04-24 20:04:49 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:982 - It filtered by keyword correctly
+2019-04-24 20:09:35 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:566 - It filtered by square feet correctly
+2019-04-24 20:10:55 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:972 - search keyword: hardwood floor
+2019-04-24 20:10:55 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:973 - prop1_description matches: yes
+2019-04-24 20:10:55 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:974 - prop2_description matches: yes
+2019-04-24 20:10:55 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:975 - prop3_description matches: yes
+2019-04-24 20:10:55 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:976 - prop4_description matches: yes
+2019-04-24 20:10:55 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:977 - prop5_description matches: yes
+2019-04-24 20:10:55 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:982 - It filtered by keyword correctly
+2019-04-24 20:11:42 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:566 - It filtered by square feet correctly
+2019-04-24 20:12:42 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:972 - search keyword: hardwood floor
+2019-04-24 20:12:42 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:973 - prop1_description matches: yes
+2019-04-24 20:12:42 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:974 - prop2_description matches: yes
+2019-04-24 20:12:42 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:975 - prop3_description matches: yes
+2019-04-24 20:12:42 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:976 - prop4_description matches: yes
+2019-04-24 20:12:42 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:977 - prop5_description matches: yes
+2019-04-24 20:12:42 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:982 - It filtered by keyword correctly
+2019-04-24 20:13:34 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:566 - It filtered by square feet correctly
+2019-04-24 20:40:59 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:972 - search keyword: hardwood floor
+2019-04-24 20:40:59 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:973 - prop1_description matches: yes
+2019-04-24 20:40:59 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:974 - prop2_description matches: yes
+2019-04-24 20:40:59 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:975 - prop3_description matches: yes
+2019-04-24 20:40:59 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:976 - prop4_description matches: yes
+2019-04-24 20:40:59 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:977 - prop5_description matches: yes
+2019-04-24 20:40:59 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:982 - It filtered by keyword correctly
+2019-04-24 20:41:23 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:566 - It filtered by square feet correctly
+2019-04-24 20:41:24 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:566 - It filtered by square feet correctly
+2019-04-24 20:41:26 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:566 - It filtered by square feet correctly
+2019-04-24 20:42:31 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:972 - search keyword: hardwood floor
+2019-04-24 20:42:31 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:973 - prop1_description matches: yes
+2019-04-24 20:42:31 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:974 - prop2_description matches: yes
+2019-04-24 20:42:31 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:975 - prop3_description matches: yes
+2019-04-24 20:42:31 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:976 - prop4_description matches: yes
+2019-04-24 20:42:31 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:977 - prop5_description matches: yes
+2019-04-24 20:42:31 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:982 - It filtered by keyword correctly
+2019-04-24 20:43:11 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:972 - search keyword: hardwood floor
+2019-04-24 20:43:11 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:973 - prop1_description matches: yes
+2019-04-24 20:43:11 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:974 - prop2_description matches: yes
+2019-04-24 20:43:11 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:975 - prop3_description matches: yes
+2019-04-24 20:43:11 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:976 - prop4_description matches: yes
+2019-04-24 20:43:11 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:977 - prop5_description matches: yes
+2019-04-24 20:43:11 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:982 - It filtered by keyword correctly
+2019-04-24 20:43:58 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:972 - search keyword: hardwood floor
+2019-04-24 20:43:58 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:973 - prop1_description matches: yes
+2019-04-24 20:43:58 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:974 - prop2_description matches: yes
+2019-04-24 20:43:58 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:975 - prop3_description matches: yes
+2019-04-24 20:43:58 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:976 - prop4_description matches: yes
+2019-04-24 20:43:58 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:977 - prop5_description matches: yes
+2019-04-24 20:43:58 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:982 - It filtered by keyword correctly
+2019-04-24 20:50:40 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:566 - It filtered by square feet correctly
+2019-04-24 20:51:35 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:972 - search keyword: hardwood floor
+2019-04-24 20:51:35 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:973 - prop1_description matches: yes
+2019-04-24 20:51:35 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:974 - prop2_description matches: yes
+2019-04-24 20:51:35 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:975 - prop3_description matches: yes
+2019-04-24 20:51:35 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:976 - prop4_description matches: yes
+2019-04-24 20:51:35 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:977 - prop5_description matches: yes
+2019-04-24 20:51:35 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:982 - It filtered by keyword correctly
+2019-04-24 20:51:39 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:972 - search keyword: hardwood floor
+2019-04-24 20:51:39 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:973 - prop1_description matches: yes
+2019-04-24 20:51:39 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:974 - prop2_description matches: yes
+2019-04-24 20:51:39 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:975 - prop3_description matches: yes
+2019-04-24 20:51:39 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:976 - prop4_description matches: yes
+2019-04-24 20:51:39 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:977 - prop5_description matches: yes
+2019-04-24 20:51:39 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:982 - It filtered by keyword correctly
+2019-04-24 20:52:23 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:566 - It filtered by square feet correctly
+2019-04-24 20:52:46 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:566 - It filtered by square feet correctly
+2019-04-24 20:53:25 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:972 - search keyword: hardwood floor
+2019-04-24 20:53:25 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:973 - prop1_description matches: yes
+2019-04-24 20:53:25 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:974 - prop2_description matches: yes
+2019-04-24 20:53:25 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:975 - prop3_description matches: yes
+2019-04-24 20:53:25 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:976 - prop4_description matches: yes
+2019-04-24 20:53:25 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:977 - prop5_description matches: yes
+2019-04-24 20:53:25 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:982 - It filtered by keyword correctly
+2019-04-24 20:54:09 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:972 - search keyword: hardwood floor
+2019-04-24 20:54:09 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:973 - prop1_description matches: yes
+2019-04-24 20:54:09 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:974 - prop2_description matches: yes
+2019-04-24 20:54:09 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:975 - prop3_description matches: yes
+2019-04-24 20:54:09 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:976 - prop4_description matches: yes
+2019-04-24 20:54:09 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:977 - prop5_description matches: yes
+2019-04-24 20:54:09 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:982 - It filtered by keyword correctly
+2019-04-24 21:00:58 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:566 - It filtered by square feet correctly
+2019-04-24 21:01:42 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:972 - search keyword: hardwood floor
+2019-04-24 21:01:42 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:973 - prop1_description matches: yes
+2019-04-24 21:01:42 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:974 - prop2_description matches: yes
+2019-04-24 21:01:42 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:975 - prop3_description matches: yes
+2019-04-24 21:01:42 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:976 - prop4_description matches: yes
+2019-04-24 21:01:42 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:977 - prop5_description matches: yes
+2019-04-24 21:01:42 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:982 - It filtered by keyword correctly
+2019-04-24 21:02:02 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:972 - search keyword: hardwood floor
+2019-04-24 21:02:02 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:973 - prop1_description matches: yes
+2019-04-24 21:02:02 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:974 - prop2_description matches: yes
+2019-04-24 21:02:02 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:975 - prop3_description matches: yes
+2019-04-24 21:02:02 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:976 - prop4_description matches: yes
+2019-04-24 21:02:02 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:977 - prop5_description matches: yes
+2019-04-24 21:02:02 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:982 - It filtered by keyword correctly
+2019-04-24 21:02:42 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:566 - It filtered by square feet correctly
+2019-04-24 21:02:44 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:566 - It filtered by square feet correctly
+2019-04-24 21:03:47 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:972 - search keyword: hardwood floor
+2019-04-24 21:03:47 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:973 - prop1_description matches: yes
+2019-04-24 21:03:47 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:974 - prop2_description matches: yes
+2019-04-24 21:03:47 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:975 - prop3_description matches: yes
+2019-04-24 21:03:47 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:976 - prop4_description matches: yes
+2019-04-24 21:03:47 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:977 - prop5_description matches: yes
+2019-04-24 21:03:47 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:982 - It filtered by keyword correctly
+2019-04-24 21:04:07 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:972 - search keyword: hardwood floor
+2019-04-24 21:04:07 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:973 - prop1_description matches: yes
+2019-04-24 21:04:07 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:974 - prop2_description matches: yes
+2019-04-24 21:04:07 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:975 - prop3_description matches: yes
+2019-04-24 21:04:07 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:976 - prop4_description matches: yes
+2019-04-24 21:04:07 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:977 - prop5_description matches: yes
+2019-04-24 21:04:07 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:982 - It filtered by keyword correctly
+2019-04-24 21:19:21 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:566 - It filtered by square feet correctly
+2019-04-24 21:19:59 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:972 - search keyword: hardwood floor
+2019-04-24 21:19:59 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:973 - prop1_description matches: yes
+2019-04-24 21:19:59 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:974 - prop2_description matches: yes
+2019-04-24 21:19:59 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:975 - prop3_description matches: yes
+2019-04-24 21:19:59 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:976 - prop4_description matches: yes
+2019-04-24 21:19:59 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:977 - prop5_description matches: yes
+2019-04-24 21:19:59 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:982 - It filtered by keyword correctly
+2019-04-24 21:20:25 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:972 - search keyword: hardwood floor
+2019-04-24 21:20:25 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:973 - prop1_description matches: yes
+2019-04-24 21:20:25 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:974 - prop2_description matches: yes
+2019-04-24 21:20:25 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:975 - prop3_description matches: yes
+2019-04-24 21:20:25 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:976 - prop4_description matches: yes
+2019-04-24 21:20:25 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:977 - prop5_description matches: yes
+2019-04-24 21:20:25 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:982 - It filtered by keyword correctly
+2019-04-24 21:21:01 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:566 - It filtered by square feet correctly
+2019-04-24 21:21:11 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:566 - It filtered by square feet correctly
+2019-04-24 21:22:13 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:972 - search keyword: hardwood floor
+2019-04-24 21:22:13 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:973 - prop1_description matches: yes
+2019-04-24 21:22:13 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:974 - prop2_description matches: yes
+2019-04-24 21:22:13 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:975 - prop3_description matches: yes
+2019-04-24 21:22:13 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:976 - prop4_description matches: yes
+2019-04-24 21:22:13 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:977 - prop5_description matches: yes
+2019-04-24 21:22:13 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:982 - It filtered by keyword correctly
+2019-04-24 21:22:19 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:972 - search keyword: hardwood floor
+2019-04-24 21:22:19 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:973 - prop1_description matches: yes
+2019-04-24 21:22:19 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:974 - prop2_description matches: yes
+2019-04-24 21:22:19 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:975 - prop3_description matches: yes
+2019-04-24 21:22:19 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:976 - prop4_description matches: yes
+2019-04-24 21:22:19 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:977 - prop5_description matches: yes
+2019-04-24 21:22:19 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:982 - It filtered by keyword correctly
+2019-04-24 21:46:14 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:566 - It filtered by square feet correctly
+2019-04-24 21:46:25 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:972 - search keyword: hardwood floor
+2019-04-24 21:46:25 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:973 - prop1_description matches: yes
+2019-04-24 21:46:25 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:974 - prop2_description matches: yes
+2019-04-24 21:46:25 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:975 - prop3_description matches: yes
+2019-04-24 21:46:25 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:976 - prop4_description matches: yes
+2019-04-24 21:46:25 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:977 - prop5_description matches: yes
+2019-04-24 21:46:25 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:982 - It filtered by keyword correctly
+2019-04-24 21:47:10 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:566 - It filtered by square feet correctly
+2019-04-24 21:47:45 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:972 - search keyword: hardwood floor
+2019-04-24 21:47:45 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:973 - prop1_description matches: yes
+2019-04-24 21:47:45 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:974 - prop2_description matches: yes
+2019-04-24 21:47:45 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:975 - prop3_description matches: yes
+2019-04-24 21:47:45 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:976 - prop4_description matches: yes
+2019-04-24 21:47:45 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:977 - prop5_description matches: yes
+2019-04-24 21:47:45 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:982 - It filtered by keyword correctly
+2019-04-24 21:48:10 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:972 - search keyword: hardwood floor
+2019-04-24 21:48:10 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:973 - prop1_description matches: yes
+2019-04-24 21:48:10 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:974 - prop2_description matches: yes
+2019-04-24 21:48:10 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:975 - prop3_description matches: yes
+2019-04-24 21:48:10 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:976 - prop4_description matches: yes
+2019-04-24 21:48:10 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:977 - prop5_description matches: yes
+2019-04-24 21:48:10 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:982 - It filtered by keyword correctly
+2019-04-24 21:48:40 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:566 - It filtered by square feet correctly
+2019-04-24 21:49:54 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:972 - search keyword: hardwood floor
+2019-04-24 21:49:54 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:973 - prop1_description matches: yes
+2019-04-24 21:49:54 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:974 - prop2_description matches: yes
+2019-04-24 21:49:54 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:975 - prop3_description matches: yes
+2019-04-24 21:49:54 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:976 - prop4_description matches: yes
+2019-04-24 21:49:54 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:977 - prop5_description matches: yes
+2019-04-24 21:49:54 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:982 - It filtered by keyword correctly
+2019-04-25 09:39:35 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:566 - It filtered by square feet correctly
+2019-04-25 09:40:28 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:972 - search keyword: hardwood floor
+2019-04-25 09:40:28 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:973 - prop1_description matches: yes
+2019-04-25 09:40:28 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:974 - prop2_description matches: yes
+2019-04-25 09:40:28 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:975 - prop3_description matches: yes
+2019-04-25 09:40:28 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:976 - prop4_description matches: yes
+2019-04-25 09:40:28 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:977 - prop5_description matches: yes
+2019-04-25 09:40:28 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:982 - It filtered by keyword correctly
+2019-04-25 09:40:53 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:972 - search keyword: hardwood floor
+2019-04-25 09:40:53 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:973 - prop1_description matches: yes
+2019-04-25 09:40:53 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:974 - prop2_description matches: yes
+2019-04-25 09:40:53 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:975 - prop3_description matches: yes
+2019-04-25 09:40:53 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:976 - prop4_description matches: yes
+2019-04-25 09:40:53 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:977 - prop5_description matches: yes
+2019-04-25 09:40:53 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:982 - It filtered by keyword correctly
+2019-04-25 09:41:56 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:566 - It filtered by square feet correctly
+2019-04-25 09:41:59 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:566 - It filtered by square feet correctly
+2019-04-25 09:43:20 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:972 - search keyword: hardwood floor
+2019-04-25 09:43:20 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:973 - prop1_description matches: yes
+2019-04-25 09:43:20 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:974 - prop2_description matches: yes
+2019-04-25 09:43:20 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:975 - prop3_description matches: yes
+2019-04-25 09:43:20 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:976 - prop4_description matches: yes
+2019-04-25 09:43:20 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:977 - prop5_description matches: yes
+2019-04-25 09:43:20 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:982 - It filtered by keyword correctly
+2019-04-25 09:43:44 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:972 - search keyword: hardwood floor
+2019-04-25 09:43:44 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:973 - prop1_description matches: yes
+2019-04-25 09:43:44 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:974 - prop2_description matches: yes
+2019-04-25 09:43:44 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:975 - prop3_description matches: yes
+2019-04-25 09:43:44 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:976 - prop4_description matches: yes
+2019-04-25 09:43:44 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:977 - prop5_description matches: yes
+2019-04-25 09:43:44 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:982 - It filtered by keyword correctly
+2019-04-25 09:57:16 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:566 - It filtered by square feet correctly
+2019-04-25 09:58:15 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:972 - search keyword: hardwood floor
+2019-04-25 09:58:15 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:973 - prop1_description matches: yes
+2019-04-25 09:58:15 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:974 - prop2_description matches: yes
+2019-04-25 09:58:15 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:975 - prop3_description matches: yes
+2019-04-25 09:58:15 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:976 - prop4_description matches: yes
+2019-04-25 09:58:15 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:977 - prop5_description matches: yes
+2019-04-25 09:58:15 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:982 - It filtered by keyword correctly
+2019-04-25 09:58:19 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:972 - search keyword: hardwood floor
+2019-04-25 09:58:19 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:973 - prop1_description matches: yes
+2019-04-25 09:58:19 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:974 - prop2_description matches: yes
+2019-04-25 09:58:19 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:975 - prop3_description matches: yes
+2019-04-25 09:58:19 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:976 - prop4_description matches: yes
+2019-04-25 09:58:19 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:977 - prop5_description matches: yes
+2019-04-25 09:58:19 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:982 - It filtered by keyword correctly
+2019-04-25 09:59:15 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:566 - It filtered by square feet correctly
+2019-04-25 09:59:18 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:566 - It filtered by square feet correctly
+2019-04-25 10:00:21 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:972 - search keyword: hardwood floor
+2019-04-25 10:00:21 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:973 - prop1_description matches: yes
+2019-04-25 10:00:21 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:974 - prop2_description matches: yes
+2019-04-25 10:00:21 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:975 - prop3_description matches: yes
+2019-04-25 10:00:21 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:976 - prop4_description matches: yes
+2019-04-25 10:00:21 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:977 - prop5_description matches: yes
+2019-04-25 10:00:21 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:982 - It filtered by keyword correctly
+2019-04-25 10:01:03 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:972 - search keyword: hardwood floor
+2019-04-25 10:01:03 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:973 - prop1_description matches: yes
+2019-04-25 10:01:03 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:974 - prop2_description matches: yes
+2019-04-25 10:01:03 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:975 - prop3_description matches: yes
+2019-04-25 10:01:03 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:976 - prop4_description matches: yes
+2019-04-25 10:01:03 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:977 - prop5_description matches: yes
+2019-04-25 10:01:03 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:982 - It filtered by keyword correctly
+2019-04-25 10:18:26 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:566 - It filtered by square feet correctly
+2019-04-25 10:18:28 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:972 - search keyword: hardwood floor
+2019-04-25 10:18:28 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:973 - prop1_description matches: yes
+2019-04-25 10:18:28 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:974 - prop2_description matches: yes
+2019-04-25 10:18:28 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:975 - prop3_description matches: yes
+2019-04-25 10:18:28 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:976 - prop4_description matches: yes
+2019-04-25 10:18:28 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:977 - prop5_description matches: yes
+2019-04-25 10:18:28 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:982 - It filtered by keyword correctly
+2019-04-25 10:19:44 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:566 - It filtered by square feet correctly
+2019-04-25 10:21:09 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:972 - search keyword: hardwood floor
+2019-04-25 10:21:09 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:973 - prop1_description matches: yes
+2019-04-25 10:21:09 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:974 - prop2_description matches: yes
+2019-04-25 10:21:09 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:975 - prop3_description matches: yes
+2019-04-25 10:21:09 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:976 - prop4_description matches: yes
+2019-04-25 10:21:09 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:977 - prop5_description matches: yes
+2019-04-25 10:21:09 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:982 - It filtered by keyword correctly
+2019-04-25 10:21:54 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:566 - It filtered by square feet correctly
+2019-04-25 10:22:56 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:972 - search keyword: hardwood floor
+2019-04-25 10:22:56 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:973 - prop1_description matches: yes
+2019-04-25 10:22:56 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:974 - prop2_description matches: yes
+2019-04-25 10:22:56 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:975 - prop3_description matches: yes
+2019-04-25 10:22:56 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:976 - prop4_description matches: yes
+2019-04-25 10:22:56 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:977 - prop5_description matches: yes
+2019-04-25 10:22:56 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:982 - It filtered by keyword correctly
+2019-04-25 14:41:29 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:566 - It filtered by square feet correctly
+2019-04-25 14:42:09 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:972 - search keyword: hardwood floor
+2019-04-25 14:42:09 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:973 - prop1_description matches: yes
+2019-04-25 14:42:09 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:974 - prop2_description matches: yes
+2019-04-25 14:42:09 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:975 - prop3_description matches: yes
+2019-04-25 14:42:09 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:976 - prop4_description matches: yes
+2019-04-25 14:42:09 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:977 - prop5_description matches: yes
+2019-04-25 14:42:09 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:982 - It filtered by keyword correctly
+2019-04-25 14:42:28 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:972 - search keyword: hardwood floor
+2019-04-25 14:42:28 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:973 - prop1_description matches: yes
+2019-04-25 14:42:28 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:974 - prop2_description matches: yes
+2019-04-25 14:42:28 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:975 - prop3_description matches: yes
+2019-04-25 14:42:28 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:976 - prop4_description matches: yes
+2019-04-25 14:42:28 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:977 - prop5_description matches: yes
+2019-04-25 14:42:28 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:982 - It filtered by keyword correctly
+2019-04-25 14:43:06 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:566 - It filtered by square feet correctly
+2019-04-25 14:43:15 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:566 - It filtered by square feet correctly
+2019-04-25 14:44:15 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:972 - search keyword: hardwood floor
+2019-04-25 14:44:15 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:973 - prop1_description matches: yes
+2019-04-25 14:44:15 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:974 - prop2_description matches: yes
+2019-04-25 14:44:15 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:975 - prop3_description matches: yes
+2019-04-25 14:44:15 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:976 - prop4_description matches: yes
+2019-04-25 14:44:15 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:977 - prop5_description matches: yes
+2019-04-25 14:44:15 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:982 - It filtered by keyword correctly
+2019-04-25 14:44:24 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:972 - search keyword: hardwood floor
+2019-04-25 14:44:24 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:973 - prop1_description matches: yes
+2019-04-25 14:44:24 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:974 - prop2_description matches: yes
+2019-04-25 14:44:24 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:975 - prop3_description matches: yes
+2019-04-25 14:44:24 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:976 - prop4_description matches: yes
+2019-04-25 14:44:24 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:977 - prop5_description matches: yes
+2019-04-25 14:44:24 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:982 - It filtered by keyword correctly
+2019-04-25 15:21:36 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:566 - It filtered by square feet correctly
+2019-04-25 15:22:15 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:972 - search keyword: hardwood floor
+2019-04-25 15:22:15 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:973 - prop1_description matches: yes
+2019-04-25 15:22:15 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:974 - prop2_description matches: yes
+2019-04-25 15:22:15 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:975 - prop3_description matches: yes
+2019-04-25 15:22:15 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:976 - prop4_description matches: yes
+2019-04-25 15:22:15 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:977 - prop5_description matches: yes
+2019-04-25 15:22:15 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:982 - It filtered by keyword correctly
+2019-04-25 15:22:37 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:972 - search keyword: hardwood floor
+2019-04-25 15:22:37 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:973 - prop1_description matches: yes
+2019-04-25 15:22:37 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:974 - prop2_description matches: yes
+2019-04-25 15:22:37 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:975 - prop3_description matches: yes
+2019-04-25 15:22:37 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:976 - prop4_description matches: yes
+2019-04-25 15:22:37 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:977 - prop5_description matches: yes
+2019-04-25 15:22:37 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:982 - It filtered by keyword correctly
+2019-04-25 15:23:09 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:566 - It filtered by square feet correctly
+2019-04-25 15:23:19 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:566 - It filtered by square feet correctly
+2019-04-25 15:24:18 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:972 - search keyword: hardwood floor
+2019-04-25 15:24:18 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:973 - prop1_description matches: yes
+2019-04-25 15:24:18 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:974 - prop2_description matches: yes
+2019-04-25 15:24:18 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:975 - prop3_description matches: yes
+2019-04-25 15:24:18 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:976 - prop4_description matches: yes
+2019-04-25 15:24:18 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:977 - prop5_description matches: yes
+2019-04-25 15:24:18 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:982 - It filtered by keyword correctly
+2019-04-25 15:24:26 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:972 - search keyword: hardwood floor
+2019-04-25 15:24:26 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:973 - prop1_description matches: yes
+2019-04-25 15:24:26 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:974 - prop2_description matches: yes
+2019-04-25 15:24:26 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:975 - prop3_description matches: yes
+2019-04-25 15:24:26 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:976 - prop4_description matches: yes
+2019-04-25 15:24:26 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:977 - prop5_description matches: yes
+2019-04-25 15:24:26 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:982 - It filtered by keyword correctly
+2019-04-25 15:41:11 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:566 - It filtered by square feet correctly
+2019-04-25 15:41:55 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:972 - search keyword: hardwood floor
+2019-04-25 15:41:55 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:973 - prop1_description matches: yes
+2019-04-25 15:41:55 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:974 - prop2_description matches: yes
+2019-04-25 15:41:55 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:975 - prop3_description matches: yes
+2019-04-25 15:41:55 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:976 - prop4_description matches: yes
+2019-04-25 15:41:55 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:977 - prop5_description matches: yes
+2019-04-25 15:41:55 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:982 - It filtered by keyword correctly
+2019-04-25 15:42:13 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:972 - search keyword: hardwood floor
+2019-04-25 15:42:13 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:973 - prop1_description matches: yes
+2019-04-25 15:42:13 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:974 - prop2_description matches: yes
+2019-04-25 15:42:13 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:975 - prop3_description matches: yes
+2019-04-25 15:42:13 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:976 - prop4_description matches: yes
+2019-04-25 15:42:13 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:977 - prop5_description matches: yes
+2019-04-25 15:42:13 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:982 - It filtered by keyword correctly
+2019-04-25 15:42:53 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:566 - It filtered by square feet correctly
+2019-04-25 15:42:56 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:566 - It filtered by square feet correctly
+2019-04-25 15:43:57 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:972 - search keyword: hardwood floor
+2019-04-25 15:43:57 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:973 - prop1_description matches: yes
+2019-04-25 15:43:57 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:974 - prop2_description matches: yes
+2019-04-25 15:43:57 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:975 - prop3_description matches: yes
+2019-04-25 15:43:57 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:976 - prop4_description matches: yes
+2019-04-25 15:43:57 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:977 - prop5_description matches: yes
+2019-04-25 15:43:57 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:982 - It filtered by keyword correctly
+2019-04-25 15:44:15 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:972 - search keyword: hardwood floor
+2019-04-25 15:44:15 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:973 - prop1_description matches: yes
+2019-04-25 15:44:15 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:974 - prop2_description matches: yes
+2019-04-25 15:44:15 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:975 - prop3_description matches: yes
+2019-04-25 15:44:15 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:976 - prop4_description matches: yes
+2019-04-25 15:44:15 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:977 - prop5_description matches: yes
+2019-04-25 15:44:15 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:982 - It filtered by keyword correctly
+2019-04-25 16:43:19 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:566 - It filtered by square feet correctly
+2019-04-25 16:55:44 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:566 - It filtered by square feet correctly
+2019-04-25 16:56:28 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:972 - search keyword: hardwood floor
+2019-04-25 16:56:28 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:973 - prop1_description matches: yes
+2019-04-25 16:56:28 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:974 - prop2_description matches: yes
+2019-04-25 16:56:28 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:975 - prop3_description matches: yes
+2019-04-25 16:56:28 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:976 - prop4_description matches: yes
+2019-04-25 16:56:28 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:977 - prop5_description matches: yes
+2019-04-25 16:56:28 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:982 - It filtered by keyword correctly
+2019-04-25 16:56:44 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:972 - search keyword: hardwood floor
+2019-04-25 16:56:44 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:973 - prop1_description matches: yes
+2019-04-25 16:56:44 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:974 - prop2_description matches: yes
+2019-04-25 16:56:44 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:975 - prop3_description matches: yes
+2019-04-25 16:56:44 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:976 - prop4_description matches: yes
+2019-04-25 16:56:44 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:977 - prop5_description matches: yes
+2019-04-25 16:56:44 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:982 - It filtered by keyword correctly
+2019-04-25 16:57:26 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:566 - It filtered by square feet correctly
+2019-04-25 16:57:27 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:566 - It filtered by square feet correctly
+2019-04-25 16:58:27 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:972 - search keyword: hardwood floor
+2019-04-25 16:58:27 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:973 - prop1_description matches: yes
+2019-04-25 16:58:27 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:974 - prop2_description matches: yes
+2019-04-25 16:58:27 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:975 - prop3_description matches: yes
+2019-04-25 16:58:27 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:976 - prop4_description matches: yes
+2019-04-25 16:58:27 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:977 - prop5_description matches: yes
+2019-04-25 16:58:27 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:982 - It filtered by keyword correctly
+2019-04-25 16:58:40 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:972 - search keyword: hardwood floor
+2019-04-25 16:58:40 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:973 - prop1_description matches: yes
+2019-04-25 16:58:40 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:974 - prop2_description matches: yes
+2019-04-25 16:58:40 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:975 - prop3_description matches: yes
+2019-04-25 16:58:40 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:976 - prop4_description matches: yes
+2019-04-25 16:58:40 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:977 - prop5_description matches: yes
+2019-04-25 16:58:40 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:982 - It filtered by keyword correctly
+2019-04-25 19:24:21 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:566 - It filtered by square feet correctly
+2019-04-25 19:25:19 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:972 - search keyword: hardwood floor
+2019-04-25 19:25:19 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:973 - prop1_description matches: yes
+2019-04-25 19:25:19 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:974 - prop2_description matches: yes
+2019-04-25 19:25:19 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:975 - prop3_description matches: yes
+2019-04-25 19:25:19 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:976 - prop4_description matches: yes
+2019-04-25 19:25:19 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:977 - prop5_description matches: yes
+2019-04-25 19:25:19 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:982 - It filtered by keyword correctly
+2019-04-25 19:25:26 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:972 - search keyword: hardwood floor
+2019-04-25 19:25:26 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:973 - prop1_description matches: yes
+2019-04-25 19:25:26 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:974 - prop2_description matches: yes
+2019-04-25 19:25:26 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:975 - prop3_description matches: yes
+2019-04-25 19:25:26 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:976 - prop4_description matches: yes
+2019-04-25 19:25:26 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:977 - prop5_description matches: yes
+2019-04-25 19:25:26 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:982 - It filtered by keyword correctly
+2019-04-25 19:28:50 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:566 - It filtered by square feet correctly
+2019-04-25 19:29:45 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:972 - search keyword: hardwood floor
+2019-04-25 19:29:45 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:973 - prop1_description matches: yes
+2019-04-25 19:29:45 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:974 - prop2_description matches: yes
+2019-04-25 19:29:45 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:975 - prop3_description matches: yes
+2019-04-25 19:29:45 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:976 - prop4_description matches: yes
+2019-04-25 19:29:45 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:977 - prop5_description matches: yes
+2019-04-25 19:29:45 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:982 - It filtered by keyword correctly
+2019-04-25 19:29:49 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:972 - search keyword: hardwood floor
+2019-04-25 19:29:49 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:973 - prop1_description matches: yes
+2019-04-25 19:29:49 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:974 - prop2_description matches: yes
+2019-04-25 19:29:49 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:975 - prop3_description matches: yes
+2019-04-25 19:29:49 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:976 - prop4_description matches: yes
+2019-04-25 19:29:49 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:977 - prop5_description matches: yes
+2019-04-25 19:29:49 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:982 - It filtered by keyword correctly
+2019-04-25 19:30:33 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:566 - It filtered by square feet correctly
+2019-04-25 19:30:43 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:566 - It filtered by square feet correctly
+2019-04-25 19:31:32 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:972 - search keyword: hardwood floor
+2019-04-25 19:31:32 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:973 - prop1_description matches: yes
+2019-04-25 19:31:32 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:974 - prop2_description matches: yes
+2019-04-25 19:31:32 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:975 - prop3_description matches: yes
+2019-04-25 19:31:32 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:976 - prop4_description matches: yes
+2019-04-25 19:31:32 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:977 - prop5_description matches: yes
+2019-04-25 19:31:32 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:982 - It filtered by keyword correctly
+2019-04-25 19:32:06 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:972 - search keyword: hardwood floor
+2019-04-25 19:32:06 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:973 - prop1_description matches: yes
+2019-04-25 19:32:06 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:974 - prop2_description matches: yes
+2019-04-25 19:32:06 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:975 - prop3_description matches: yes
+2019-04-25 19:32:06 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:976 - prop4_description matches: yes
+2019-04-25 19:32:06 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:977 - prop5_description matches: yes
+2019-04-25 19:32:06 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:982 - It filtered by keyword correctly
+2019-04-26 10:22:21 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:567 - It filtered by square feet correctly
+2019-04-26 10:23:18 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:973 - search keyword: hardwood floor
+2019-04-26 10:23:18 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:974 - prop1_description matches: yes
+2019-04-26 10:23:18 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:975 - prop2_description matches: yes
+2019-04-26 10:23:18 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:976 - prop3_description matches: yes
+2019-04-26 10:23:18 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:977 - prop4_description matches: yes
+2019-04-26 10:23:18 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:978 - prop5_description matches: yes
+2019-04-26 10:23:18 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:983 - It filtered by keyword correctly
+2019-04-26 10:23:26 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:973 - search keyword: hardwood floor
+2019-04-26 10:23:26 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:974 - prop1_description matches: yes
+2019-04-26 10:23:26 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:975 - prop2_description matches: yes
+2019-04-26 10:23:26 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:976 - prop3_description matches: yes
+2019-04-26 10:23:26 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:977 - prop4_description matches: yes
+2019-04-26 10:23:26 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:978 - prop5_description matches: yes
+2019-04-26 10:23:26 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:983 - It filtered by keyword correctly
+2019-04-26 10:24:19 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:567 - It filtered by square feet correctly
+2019-04-26 10:24:23 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:567 - It filtered by square feet correctly
+2019-04-26 10:25:20 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:973 - search keyword: hardwood floor
+2019-04-26 10:25:20 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:974 - prop1_description matches: yes
+2019-04-26 10:25:20 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:975 - prop2_description matches: yes
+2019-04-26 10:25:20 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:976 - prop3_description matches: yes
+2019-04-26 10:25:20 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:977 - prop4_description matches: yes
+2019-04-26 10:25:20 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:978 - prop5_description matches: yes
+2019-04-26 10:25:20 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:983 - It filtered by keyword correctly
+2019-04-26 10:25:48 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:973 - search keyword: hardwood floor
+2019-04-26 10:25:48 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:974 - prop1_description matches: yes
+2019-04-26 10:25:48 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:975 - prop2_description matches: yes
+2019-04-26 10:25:48 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:976 - prop3_description matches: yes
+2019-04-26 10:25:48 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:977 - prop4_description matches: yes
+2019-04-26 10:25:48 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:978 - prop5_description matches: yes
+2019-04-26 10:25:48 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:983 - It filtered by keyword correctly
+2019-04-26 10:46:38 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:567 - It filtered by square feet correctly
+2019-04-26 10:47:18 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:973 - search keyword: hardwood floor
+2019-04-26 10:47:18 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:974 - prop1_description matches: yes
+2019-04-26 10:47:18 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:975 - prop2_description matches: yes
+2019-04-26 10:47:18 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:976 - prop3_description matches: yes
+2019-04-26 10:47:18 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:977 - prop4_description matches: yes
+2019-04-26 10:47:18 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:978 - prop5_description matches: yes
+2019-04-26 10:47:18 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:983 - It filtered by keyword correctly
+2019-04-26 10:47:39 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:973 - search keyword: hardwood floor
+2019-04-26 10:47:39 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:974 - prop1_description matches: yes
+2019-04-26 10:47:39 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:975 - prop2_description matches: yes
+2019-04-26 10:47:39 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:976 - prop3_description matches: yes
+2019-04-26 10:47:39 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:977 - prop4_description matches: yes
+2019-04-26 10:47:39 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:978 - prop5_description matches: yes
+2019-04-26 10:47:39 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:983 - It filtered by keyword correctly
+2019-04-26 10:48:20 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:567 - It filtered by square feet correctly
+2019-04-26 10:48:30 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:567 - It filtered by square feet correctly
+2019-04-26 10:49:19 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:973 - search keyword: hardwood floor
+2019-04-26 10:49:19 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:974 - prop1_description matches: yes
+2019-04-26 10:49:19 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:975 - prop2_description matches: yes
+2019-04-26 10:49:19 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:976 - prop3_description matches: yes
+2019-04-26 10:49:19 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:977 - prop4_description matches: yes
+2019-04-26 10:49:19 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:978 - prop5_description matches: yes
+2019-04-26 10:49:19 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:983 - It filtered by keyword correctly
+2019-04-26 10:50:00 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:973 - search keyword: hardwood floor
+2019-04-26 10:50:00 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:974 - prop1_description matches: yes
+2019-04-26 10:50:00 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:975 - prop2_description matches: yes
+2019-04-26 10:50:00 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:976 - prop3_description matches: yes
+2019-04-26 10:50:00 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:977 - prop4_description matches: yes
+2019-04-26 10:50:00 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:978 - prop5_description matches: yes
+2019-04-26 10:50:00 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:983 - It filtered by keyword correctly
+2019-04-26 11:38:00 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:567 - It filtered by square feet correctly
+2019-04-26 11:38:17 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:567 - It filtered by square feet correctly
+2019-04-26 11:38:45 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:973 - search keyword: hardwood floor
+2019-04-26 11:38:45 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:974 - prop1_description matches: yes
+2019-04-26 11:38:45 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:975 - prop2_description matches: yes
+2019-04-26 11:38:45 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:976 - prop3_description matches: yes
+2019-04-26 11:38:45 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:977 - prop4_description matches: yes
+2019-04-26 11:38:45 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:978 - prop5_description matches: yes
+2019-04-26 11:38:45 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:983 - It filtered by keyword correctly
+2019-04-26 11:39:33 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:973 - search keyword: hardwood floor
+2019-04-26 11:39:33 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:974 - prop1_description matches: yes
+2019-04-26 11:39:33 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:975 - prop2_description matches: yes
+2019-04-26 11:39:33 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:976 - prop3_description matches: yes
+2019-04-26 11:39:33 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:977 - prop4_description matches: yes
+2019-04-26 11:39:33 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:978 - prop5_description matches: yes
+2019-04-26 11:39:33 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:983 - It filtered by keyword correctly
+2019-04-26 11:40:18 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:567 - It filtered by square feet correctly
+2019-04-26 11:40:29 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:567 - It filtered by square feet correctly
+2019-04-26 11:41:02 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:973 - search keyword: hardwood floor
+2019-04-26 11:41:02 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:974 - prop1_description matches: yes
+2019-04-26 11:41:02 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:975 - prop2_description matches: yes
+2019-04-26 11:41:02 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:976 - prop3_description matches: yes
+2019-04-26 11:41:02 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:977 - prop4_description matches: yes
+2019-04-26 11:41:02 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:978 - prop5_description matches: yes
+2019-04-26 11:41:02 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:983 - It filtered by keyword correctly
+2019-04-26 11:41:47 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:973 - search keyword: hardwood floor
+2019-04-26 11:41:47 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:974 - prop1_description matches: yes
+2019-04-26 11:41:47 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:975 - prop2_description matches: yes
+2019-04-26 11:41:47 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:976 - prop3_description matches: yes
+2019-04-26 11:41:47 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:977 - prop4_description matches: yes
+2019-04-26 11:41:47 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:978 - prop5_description matches: yes
+2019-04-26 11:41:47 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:983 - It filtered by keyword correctly
+2019-04-26 11:56:57 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:567 - It filtered by square feet correctly
+2019-04-26 11:57:19 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:567 - It filtered by square feet correctly
+2019-04-26 11:57:43 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:973 - search keyword: hardwood floor
+2019-04-26 11:57:43 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:974 - prop1_description matches: yes
+2019-04-26 11:57:43 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:975 - prop2_description matches: yes
+2019-04-26 11:57:43 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:976 - prop3_description matches: yes
+2019-04-26 11:57:43 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:977 - prop4_description matches: yes
+2019-04-26 11:57:43 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:978 - prop5_description matches: yes
+2019-04-26 11:57:43 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:983 - It filtered by keyword correctly
+2019-04-26 11:58:34 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:973 - search keyword: hardwood floor
+2019-04-26 11:58:34 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:974 - prop1_description matches: yes
+2019-04-26 11:58:34 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:975 - prop2_description matches: yes
+2019-04-26 11:58:34 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:976 - prop3_description matches: yes
+2019-04-26 11:58:34 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:977 - prop4_description matches: yes
+2019-04-26 11:58:34 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:978 - prop5_description matches: yes
+2019-04-26 11:58:34 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:983 - It filtered by keyword correctly
+2019-04-26 11:59:19 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:567 - It filtered by square feet correctly
+2019-04-26 11:59:30 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:567 - It filtered by square feet correctly
+2019-04-26 12:00:02 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:973 - search keyword: hardwood floor
+2019-04-26 12:00:02 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:974 - prop1_description matches: yes
+2019-04-26 12:00:02 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:975 - prop2_description matches: yes
+2019-04-26 12:00:02 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:976 - prop3_description matches: yes
+2019-04-26 12:00:02 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:977 - prop4_description matches: yes
+2019-04-26 12:00:02 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:978 - prop5_description matches: yes
+2019-04-26 12:00:02 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:983 - It filtered by keyword correctly
+2019-04-26 12:00:40 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:973 - search keyword: hardwood floor
+2019-04-26 12:00:40 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:974 - prop1_description matches: yes
+2019-04-26 12:00:40 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:975 - prop2_description matches: yes
+2019-04-26 12:00:40 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:976 - prop3_description matches: yes
+2019-04-26 12:00:40 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:977 - prop4_description matches: yes
+2019-04-26 12:00:40 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:978 - prop5_description matches: yes
+2019-04-26 12:00:40 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:983 - It filtered by keyword correctly
+2019-06-07 13:42:01 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:567 - It filtered by square feet correctly
+2019-06-07 13:42:28 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:567 - It filtered by square feet correctly
+2019-06-07 13:42:38 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:926 - verify filter keyword - first property has pic.
+2019-06-07 13:42:42 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:936 - verify filter keyword - scroll property description text into view.
+2019-06-07 13:42:42 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:955 - verify filter keyword - scroll through properties description has keyword.
+2019-06-07 13:42:43 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:936 - verify filter keyword - scroll property description text into view.
+2019-06-07 13:42:43 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:955 - verify filter keyword - scroll through properties description has keyword.
+2019-06-07 13:42:45 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:936 - verify filter keyword - scroll property description text into view.
+2019-06-07 13:42:45 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:955 - verify filter keyword - scroll through properties description has keyword.
+2019-06-07 13:42:47 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:936 - verify filter keyword - scroll property description text into view.
+2019-06-07 13:42:47 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:955 - verify filter keyword - scroll through properties description has keyword.
+2019-06-07 13:42:51 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:936 - verify filter keyword - scroll property description text into view.
+2019-06-07 13:42:51 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:955 - verify filter keyword - scroll through properties description has keyword.
+2019-06-07 13:42:52 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:986 - search keyword: hardwood floor
+2019-06-07 13:42:52 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:987 - prop1_description matches: yes
+2019-06-07 13:42:52 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:988 - prop2_description matches: yes
+2019-06-07 13:42:52 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:989 - prop3_description matches: yes
+2019-06-07 13:42:52 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:990 - prop4_description matches: yes
+2019-06-07 13:42:52 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:991 - prop5_description matches: yes
+2019-06-07 13:42:52 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:996 - It filtered by keyword correctly
+2019-06-07 13:43:21 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:926 - verify filter keyword - first property has pic.
+2019-06-07 13:43:28 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:936 - verify filter keyword - scroll property description text into view.
+2019-06-07 13:43:28 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:955 - verify filter keyword - scroll through properties description has keyword.
+2019-06-07 13:43:29 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:936 - verify filter keyword - scroll property description text into view.
+2019-06-07 13:43:29 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:955 - verify filter keyword - scroll through properties description has keyword.
+2019-06-07 13:43:33 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:936 - verify filter keyword - scroll property description text into view.
+2019-06-07 13:43:33 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:955 - verify filter keyword - scroll through properties description has keyword.
+2019-06-07 13:43:36 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:936 - verify filter keyword - scroll property description text into view.
+2019-06-07 13:43:36 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:955 - verify filter keyword - scroll through properties description has keyword.
+2019-06-07 13:43:43 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:936 - verify filter keyword - scroll property description text into view.
+2019-06-07 13:43:43 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:955 - verify filter keyword - scroll through properties description has keyword.
+2019-06-07 13:43:44 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:986 - search keyword: hardwood floor
+2019-06-07 13:43:44 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:987 - prop1_description matches: yes
+2019-06-07 13:43:44 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:988 - prop2_description matches: yes
+2019-06-07 13:43:44 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:989 - prop3_description matches: yes
+2019-06-07 13:43:44 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:990 - prop4_description matches: yes
+2019-06-07 13:43:44 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:991 - prop5_description matches: yes
+2019-06-07 13:43:44 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:996 - It filtered by keyword correctly
+2019-06-07 13:44:18 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:567 - It filtered by square feet correctly
+2019-06-07 13:44:38 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:567 - It filtered by square feet correctly
+2019-06-07 13:44:55 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:926 - verify filter keyword - first property has pic.
+2019-06-07 13:44:59 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:936 - verify filter keyword - scroll property description text into view.
+2019-06-07 13:44:59 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:955 - verify filter keyword - scroll through properties description has keyword.
+2019-06-07 13:45:02 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:936 - verify filter keyword - scroll property description text into view.
+2019-06-07 13:45:02 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:955 - verify filter keyword - scroll through properties description has keyword.
+2019-06-07 13:45:05 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:936 - verify filter keyword - scroll property description text into view.
+2019-06-07 13:45:05 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:955 - verify filter keyword - scroll through properties description has keyword.
+2019-06-07 13:45:08 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:936 - verify filter keyword - scroll property description text into view.
+2019-06-07 13:45:08 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:955 - verify filter keyword - scroll through properties description has keyword.
+2019-06-07 13:45:11 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:936 - verify filter keyword - scroll property description text into view.
+2019-06-07 13:45:11 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:955 - verify filter keyword - scroll through properties description has keyword.
+2019-06-07 13:45:11 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:986 - search keyword: hardwood floor
+2019-06-07 13:45:11 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:987 - prop1_description matches: yes
+2019-06-07 13:45:11 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:988 - prop2_description matches: yes
+2019-06-07 13:45:11 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:989 - prop3_description matches: yes
+2019-06-07 13:45:11 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:990 - prop4_description matches: yes
+2019-06-07 13:45:11 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:991 - prop5_description matches: yes
+2019-06-07 13:45:11 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:996 - It filtered by keyword correctly
+2019-06-07 13:45:23 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:926 - verify filter keyword - first property has pic.
+2019-06-07 13:45:30 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:936 - verify filter keyword - scroll property description text into view.
+2019-06-07 13:45:30 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:955 - verify filter keyword - scroll through properties description has keyword.
+2019-06-07 13:45:34 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:936 - verify filter keyword - scroll property description text into view.
+2019-06-07 13:45:34 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:955 - verify filter keyword - scroll through properties description has keyword.
+2019-06-07 13:45:38 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:936 - verify filter keyword - scroll property description text into view.
+2019-06-07 13:45:38 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:955 - verify filter keyword - scroll through properties description has keyword.
+2019-06-07 13:45:42 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:936 - verify filter keyword - scroll property description text into view.
+2019-06-07 13:45:42 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:955 - verify filter keyword - scroll through properties description has keyword.
+2019-06-07 13:45:46 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:936 - verify filter keyword - scroll property description text into view.
+2019-06-07 13:45:46 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:955 - verify filter keyword - scroll through properties description has keyword.
+2019-06-07 13:45:47 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:986 - search keyword: hardwood floor
+2019-06-07 13:45:47 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:987 - prop1_description matches: yes
+2019-06-07 13:45:47 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:988 - prop2_description matches: yes
+2019-06-07 13:45:47 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:989 - prop3_description matches: yes
+2019-06-07 13:45:47 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:990 - prop4_description matches: yes
+2019-06-07 13:45:47 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:991 - prop5_description matches: yes
+2019-06-07 13:45:47 [TestNG-PoolService-0] INFO  FilterMoreResults_Page:996 - It filtered by keyword correctly
+2019-06-09 13:12:07 [TestNG-PoolService-0] INFO  MFilterBySqFt:50 - driver is null
+2019-06-09 13:12:07 [TestNG-PoolService-0] INFO  MFilterBySqFt:50 - driver is null
+2019-06-09 13:19:45 [TestNG-PoolService-0] INFO  MFilterBySqFt:50 - driver is null
+2019-06-09 13:19:45 [TestNG-PoolService-0] INFO  MFilterBySqFt:50 - driver is null
+2019-06-09 13:21:22 [TestNG-PoolService-0] INFO  MFilterBySqFt:50 - driver is null
+2019-06-09 13:21:22 [TestNG-PoolService-0] INFO  MFilterBySqFt:50 - driver is null
+2019-06-09 13:38:32 [TestNG-PoolService-0] INFO  MFilterBySqFt:41 - driver is null
+2019-06-09 13:38:32 [TestNG-PoolService-0] INFO  MFilterBySqFt:41 - driver is null
+2019-06-09 13:45:33 [TestNG-PoolService-0] INFO  MFilterBySqFt:41 - driver is null
+2019-06-09 13:45:33 [TestNG-PoolService-0] INFO  MFilterBySqFt:41 - driver is null
+2019-06-09 13:46:49 [TestNG-PoolService-0] INFO  MFilterBySqFt:41 - driver is null
+2019-06-09 13:46:49 [TestNG-PoolService-0] INFO  MFilterBySqFt:41 - driver is null
+2019-06-09 13:59:58 [TestNG-PoolService-0] INFO  MFilterBySqFt:52 - driver is null
+2019-06-09 13:59:58 [TestNG-PoolService-0] INFO  MFilterBySqFt:52 - driver is null
+2019-06-09 14:03:45 [TestNG-PoolService-0] INFO  MFilterBySqFt:52 - driver is null
+2019-06-09 14:03:45 [TestNG-PoolService-0] INFO  MFilterBySqFt:52 - driver is null
+2019-06-09 14:14:33 [TestNG-PoolService-0] INFO  MFilterBySqFt:52 - driver is null
+2019-06-09 14:14:33 [TestNG-PoolService-0] INFO  MFilterBySqFt:52 - driver is null
+2019-06-09 14:23:24 [TestNG-PoolService-0] INFO  MFilterBySqFt:44 - driver is null
+2019-06-09 14:23:24 [TestNG-PoolService-0] INFO  MFilterBySqFt:44 - driver is null
+2019-06-09 14:33:18 [TestNG-PoolService-0] INFO  MFilterBySqFt:44 - driver is null
+2019-06-09 14:33:18 [TestNG-PoolService-0] INFO  MFilterBySqFt:44 - driver is null
+2019-06-09 14:37:08 [TestNG-PoolService-0] INFO  MFilterBySqFt:44 - driver is null
+2019-06-09 14:37:08 [TestNG-PoolService-0] INFO  MFilterBySqFt:44 - driver is null
+2019-06-09 15:51:10 [TestNG-PoolService-0] INFO  MFilterBySqFt:44 - driver is null
+2019-06-09 15:51:10 [TestNG-PoolService-0] INFO  MFilterBySqFt:44 - driver is null
+2019-06-09 19:10:52 [TestNG-PoolService-0] INFO  MFilterBySqFt:44 - driver is null
+2019-06-09 19:10:52 [TestNG-PoolService-0] INFO  MFilterBySqFt:44 - driver is null
+2019-06-10 13:40:10 [TestNG-PoolService-0] INFO  MFilterBySqFt:44 - driver is io.appium.java_client.android.AndroidDriver, Capabilities: {app=/Users/angee/EclipseProjects/XOMEGRID/src/test/resources/base.apk, appActivity=com.xome.android.feature.mapsearch.view.MapActivity2, appPackage=com.xome.android, automationName=uiautomator2, databaseEnabled=false, desired={platformName=android, app=/Users/angee/EclipseProjects/XOMEGRID/src/test/resources/base.apk, appActivity=com.xome.android.feature.mapsearch.view.MapActivity2, appPackage=com.xome.android, automationName=uiautomator2, deviceName=GalaxyTabA2017, fullReset=false, newCommandTimeout=100000, noReset=true, platformVersion=8.1.0, udid=ecbfd827b282a9dc, wdaLocalPort=8200}, deviceApiLevel=25, deviceManufacturer=htc, deviceModel=Nexus 9, deviceName=ecbfd827b282a9dc, deviceScreenDensity=320, deviceScreenSize=1536x2048, deviceUDID=ecbfd827b282a9dc, fullReset=false, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, newCommandTimeout=100000, noReset=true, pixelRatio=2, platform=LINUX, platformName=Android, platformVersion=7.1.1, statBarHeight=48, takesScreenshot=true, udid=ecbfd827b282a9dc, viewportRect={left=0, top=48, width=1536, height=1904}, warnings={}, wdaLocalPort=8200, webStorageEnabled=false}
+2019-06-10 13:40:50 [TestNG-PoolService-0] INFO  MFilterResults_Page:656 - It filter by min square feet  1500 and max square feet 2000 successfully.
+2019-06-10 13:42:15 [TestNG-PoolService-0] INFO  MFilterResults_Page:517 - yearmatch1 is true
+2019-06-10 13:42:29 [TestNG-PoolService-0] INFO  MFilterResults_Page:551 - yearmatch2 is true
+2019-06-10 13:42:43 [TestNG-PoolService-0] INFO  MFilterResults_Page:556 - yearmatch3 is true
+2019-06-10 13:42:43 [TestNG-PoolService-0] INFO  MFilterResults_Page:564 - It filter by min year 1995 and max year 2015 successfully.
+2019-06-10 13:48:14 [TestNG-PoolService-0] INFO  MFilterBySqFt:44 - driver is io.appium.java_client.android.AndroidDriver, Capabilities: {app=/Users/angee/EclipseProjects/XOMEGRID/src/test/resources/base.apk, appActivity=com.xome.android.feature.mapsearch.view.MapActivity2, appPackage=com.xome.android, automationName=uiautomator2, databaseEnabled=false, desired={platformName=android, app=/Users/angee/EclipseProjects/XOMEGRID/src/test/resources/base.apk, appActivity=com.xome.android.feature.mapsearch.view.MapActivity2, appPackage=com.xome.android, automationName=uiautomator2, deviceName=Nexus, fullReset=false, newCommandTimeout=100000, noReset=true, platformVersion=7.1.1, udid=HT4CJJT00982, wdaLocalPort=8200}, deviceApiLevel=27, deviceManufacturer=samsung, deviceModel=SM-T380, deviceName=HT4CJJT00982, deviceScreenDensity=213, deviceScreenSize=800x1280, deviceUDID=HT4CJJT00982, fullReset=false, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, newCommandTimeout=100000, noReset=true, pixelRatio=1.3312501, platform=LINUX, platformName=Android, platformVersion=8.1.0, statBarHeight=32, takesScreenshot=true, udid=HT4CJJT00982, viewportRect={left=0, top=32, width=800, height=1248}, warnings={}, wdaLocalPort=8200, webStorageEnabled=false}
+2019-06-10 13:48:15 [TestNG-PoolService-0] INFO  MFilterBySqFt:44 - driver is io.appium.java_client.android.AndroidDriver, Capabilities: {app=/Users/angee/EclipseProjects/XOMEGRID/src/test/resources/base.apk, appActivity=com.xome.android.feature.mapsearch.view.MapActivity2, appPackage=com.xome.android, automationName=uiautomator2, databaseEnabled=false, desired={platformName=android, app=/Users/angee/EclipseProjects/XOMEGRID/src/test/resources/base.apk, appActivity=com.xome.android.feature.mapsearch.view.MapActivity2, appPackage=com.xome.android, automationName=uiautomator2, deviceName=GalaxyTabA2017, fullReset=false, newCommandTimeout=100000, noReset=true, platformVersion=8.1.0, udid=ecbfd827b282a9dc, wdaLocalPort=8200}, deviceApiLevel=27, deviceManufacturer=samsung, deviceModel=SM-T380, deviceName=ecbfd827b282a9dc, deviceScreenDensity=213, deviceScreenSize=800x1280, deviceUDID=ecbfd827b282a9dc, fullReset=false, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, newCommandTimeout=100000, noReset=true, pixelRatio=1.3312501, platform=LINUX, platformName=Android, platformVersion=8.1.0, statBarHeight=32, takesScreenshot=true, udid=ecbfd827b282a9dc, viewportRect={left=0, top=32, width=800, height=1248}, warnings={}, wdaLocalPort=8200, webStorageEnabled=false}
+2019-06-10 13:52:15 [TestNG-PoolService-0] INFO  MFilterBySqFt:44 - driver is io.appium.java_client.android.AndroidDriver, Capabilities: {app=/Users/angee/EclipseProjects/XOMEGRID/src/test/resources/base.apk, appActivity=com.xome.android.feature.mapsearch.view.MapActivity2, appPackage=com.xome.android, automationName=uiautomator2, databaseEnabled=false, desired={platformName=android, app=/Users/angee/EclipseProjects/XOMEGRID/src/test/resources/base.apk, appActivity=com.xome.android.feature.mapsearch.view.MapActivity2, appPackage=com.xome.android, automationName=uiautomator2, deviceName=Nexus, fullReset=false, newCommandTimeout=100000, noReset=false, platformVersion=7.1.1, udid=HT4CJJT00982, wdaLocalPort=8200}, deviceApiLevel=27, deviceManufacturer=samsung, deviceModel=SM-T380, deviceName=HT4CJJT00982, deviceScreenDensity=213, deviceScreenSize=800x1280, deviceUDID=HT4CJJT00982, fullReset=false, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, newCommandTimeout=100000, noReset=false, pixelRatio=1.3312501, platform=LINUX, platformName=Android, platformVersion=8.1.0, statBarHeight=32, takesScreenshot=true, udid=HT4CJJT00982, viewportRect={left=0, top=32, width=800, height=1248}, warnings={}, wdaLocalPort=8200, webStorageEnabled=false}
+2019-06-10 13:52:16 [TestNG-PoolService-0] INFO  MFilterBySqFt:44 - driver is io.appium.java_client.android.AndroidDriver, Capabilities: {app=/Users/angee/EclipseProjects/XOMEGRID/src/test/resources/base.apk, appActivity=com.xome.android.feature.mapsearch.view.MapActivity2, appPackage=com.xome.android, automationName=uiautomator2, databaseEnabled=false, desired={platformName=android, app=/Users/angee/EclipseProjects/XOMEGRID/src/test/resources/base.apk, appActivity=com.xome.android.feature.mapsearch.view.MapActivity2, appPackage=com.xome.android, automationName=uiautomator2, deviceName=GalaxyTabA2017, fullReset=false, newCommandTimeout=100000, noReset=false, platformVersion=8.1.0, udid=ecbfd827b282a9dc, wdaLocalPort=8200}, deviceApiLevel=27, deviceManufacturer=samsung, deviceModel=SM-T380, deviceName=ecbfd827b282a9dc, deviceScreenDensity=213, deviceScreenSize=800x1280, deviceUDID=ecbfd827b282a9dc, fullReset=false, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, newCommandTimeout=100000, noReset=false, pixelRatio=1.3312501, platform=LINUX, platformName=Android, platformVersion=8.1.0, statBarHeight=32, takesScreenshot=true, udid=ecbfd827b282a9dc, viewportRect={left=0, top=32, width=800, height=1248}, warnings={}, wdaLocalPort=8200, webStorageEnabled=false}
+2019-06-10 13:52:59 [TestNG-PoolService-0] INFO  MFilterResults_Page:656 - It filter by min square feet  1500 and max square feet 2000 successfully.
+2019-06-10 14:10:27 [TestNG-PoolService-0] INFO  MFilterBySqFt:44 - driver is io.appium.java_client.android.AndroidDriver, Capabilities: {app=/Users/angee/EclipseProjects/XOMEGRID/src/test/resources/base.apk, appActivity=com.xome.android.feature.mapsearch.view.MapActivity2, appPackage=com.xome.android, automationName=uiautomator2, databaseEnabled=false, desired={platformName=android, app=/Users/angee/EclipseProjects/XOMEGRID/src/test/resources/base.apk, appActivity=com.xome.android.feature.mapsearch.view.MapActivity2, appPackage=com.xome.android, automationName=uiautomator2, deviceName=GalaxyTabA2017, fullReset=false, newCommandTimeout=100000, noReset=false, platformVersion=8.1.0, udid=ecbfd827b282a9dc, wdaLocalPort=8200}, deviceApiLevel=27, deviceManufacturer=samsung, deviceModel=SM-T380, deviceName=ecbfd827b282a9dc, deviceScreenDensity=213, deviceScreenSize=800x1280, deviceUDID=ecbfd827b282a9dc, fullReset=false, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, newCommandTimeout=100000, noReset=false, pixelRatio=1.3312501, platform=LINUX, platformName=Android, platformVersion=8.1.0, statBarHeight=32, takesScreenshot=true, udid=ecbfd827b282a9dc, viewportRect={left=0, top=32, width=800, height=1248}, warnings={}, wdaLocalPort=8200, webStorageEnabled=false}
+2019-06-10 14:10:27 [TestNG-PoolService-0] INFO  MFilterBySqFt:44 - driver is io.appium.java_client.android.AndroidDriver, Capabilities: {app=/Users/angee/EclipseProjects/XOMEGRID/src/test/resources/base.apk, appActivity=com.xome.android.feature.mapsearch.view.MapActivity2, appPackage=com.xome.android, automationName=uiautomator2, databaseEnabled=false, desired={platformName=android, app=/Users/angee/EclipseProjects/XOMEGRID/src/test/resources/base.apk, appActivity=com.xome.android.feature.mapsearch.view.MapActivity2, appPackage=com.xome.android, automationName=uiautomator2, deviceName=Nexus, fullReset=false, newCommandTimeout=100000, noReset=false, platformVersion=7.1.1, udid=HT4CJJT00982, wdaLocalPort=8200}, deviceApiLevel=27, deviceManufacturer=samsung, deviceModel=SM-T380, deviceName=HT4CJJT00982, deviceScreenDensity=213, deviceScreenSize=800x1280, deviceUDID=HT4CJJT00982, fullReset=false, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, newCommandTimeout=100000, noReset=false, pixelRatio=1.3312501, platform=LINUX, platformName=Android, platformVersion=8.1.0, statBarHeight=32, takesScreenshot=true, udid=HT4CJJT00982, viewportRect={left=0, top=32, width=800, height=1248}, warnings={}, wdaLocalPort=8200, webStorageEnabled=false}
+2019-06-10 14:11:09 [TestNG-PoolService-0] INFO  MFilterResults_Page:656 - It filter by min square feet  1500 and max square feet 2000 successfully.
+2019-06-10 14:40:22 [TestNG-PoolService-0] INFO  MFilterBySqFt:44 - driver is io.appium.java_client.android.AndroidDriver, Capabilities: {app=/Users/angee/EclipseProjects/XOMEGRID/src/test/resources/base.apk, appActivity=com.xome.android.feature.mapsearch.view.MapActivity2, appPackage=com.xome.android, automationName=uiautomator2, databaseEnabled=false, desired={platformName=android, app=/Users/angee/EclipseProjects/XOMEGRID/src/test/resources/base.apk, appActivity=com.xome.android.feature.mapsearch.view.MapActivity2, appPackage=com.xome.android, automationName=uiautomator2, deviceName=Nexus, fullReset=false, newCommandTimeout=100000, noReset=false, platformVersion=7.1.1, udid=HT4CJJT00982, wdaLocalPort=8201}, deviceApiLevel=25, deviceManufacturer=htc, deviceModel=Nexus 9, deviceName=HT4CJJT00982, deviceScreenDensity=320, deviceScreenSize=1536x2048, deviceUDID=HT4CJJT00982, fullReset=false, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, newCommandTimeout=100000, noReset=false, pixelRatio=2, platform=LINUX, platformName=Android, platformVersion=7.1.1, statBarHeight=48, takesScreenshot=true, udid=HT4CJJT00982, viewportRect={left=0, top=48, width=1536, height=1904}, warnings={}, wdaLocalPort=8201, webStorageEnabled=false}
+2019-06-10 17:45:09 [TestNG-PoolService-0] INFO  MFilterBySqFt:44 - driver is io.appium.java_client.android.AndroidDriver, Capabilities: {app=/Users/angee/EclipseProjects/XOMEGRID/src/test/resources/base.apk, appPackage=com.xome.android, automationName=UIAutomator2, databaseEnabled=false, desired={platformName=android, –session-override=true, app=/Users/angee/EclipseProjects/XOMEGRID/src/test/resources/base.apk, automationName=UIAutomator2, deviceName=GalaxyTabA2017, newCommandTimeout=100000, noReset=true, platformVersion=8.1.0, udid=ecbfd827b282a9dc, wdaLocalPort=8200}, deviceApiLevel=27, deviceManufacturer=samsung, deviceModel=SM-T380, deviceName=ecbfd827b282a9dc, deviceScreenDensity=213, deviceScreenSize=800x1280, deviceUDID=ecbfd827b282a9dc, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, newCommandTimeout=100000, noReset=true, pixelRatio=1.3312501, platform=LINUX, platformName=Android, platformVersion=8.1.0, statBarHeight=32, takesScreenshot=true, udid=ecbfd827b282a9dc, viewportRect={left=0, top=32, width=800, height=1248}, warnings={}, wdaLocalPort=8200, webStorageEnabled=false, –session-override=true}
+2019-06-10 17:45:09 [TestNG-PoolService-0] INFO  MFilterBySqFt:44 - driver is io.appium.java_client.android.AndroidDriver, Capabilities: {app=/Users/angee/EclipseProjects/XOMEGRID/src/test/resources/base.apk, appPackage=com.xome.android, automationName=UIAutomator2, databaseEnabled=false, desired={platformName=android, –session-override=true, app=/Users/angee/EclipseProjects/XOMEGRID/src/test/resources/base.apk, automationName=UIAutomator2, deviceName=Nexus, newCommandTimeout=100000, noReset=true, platformVersion=7.1.1, udid=HT4CJJT00982, wdaLocalPort=8201}, deviceApiLevel=27, deviceManufacturer=samsung, deviceModel=SM-T380, deviceName=HT4CJJT00982, deviceScreenDensity=213, deviceScreenSize=800x1280, deviceUDID=HT4CJJT00982, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, newCommandTimeout=100000, noReset=true, pixelRatio=1.3312501, platform=LINUX, platformName=Android, platformVersion=8.1.0, statBarHeight=32, takesScreenshot=true, udid=HT4CJJT00982, viewportRect={left=0, top=32, width=800, height=1248}, warnings={}, wdaLocalPort=8201, webStorageEnabled=false, –session-override=true}
+2019-06-10 17:45:56 [TestNG-PoolService-0] INFO  MFilterResults_Page:656 - It filter by min square feet  1500 and max square feet 2000 successfully.
+2019-06-10 17:57:05 [TestNG-PoolService-0] INFO  MFilterBySqFt:44 - driver is io.appium.java_client.android.AndroidDriver, Capabilities: {app=/Users/angee/EclipseProjects/XOMEGRID/src/test/resources/base.apk, appPackage=com.xome.android, automationName=UIAutomator2, databaseEnabled=false, desired={platformName=android, –session-override=true, app=/Users/angee/EclipseProjects/XOMEGRID/src/test/resources/base.apk, automationName=UIAutomator2, deviceName=GalaxyTabA2017, newCommandTimeout=100000, noReset=true, platformVersion=8.1.0, udid=ecbfd827b282a9dc, wdaLocalPort=8200}, deviceApiLevel=27, deviceManufacturer=samsung, deviceModel=SM-T380, deviceName=ecbfd827b282a9dc, deviceScreenDensity=213, deviceScreenSize=800x1280, deviceUDID=ecbfd827b282a9dc, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, newCommandTimeout=100000, noReset=true, pixelRatio=1.3312501, platform=LINUX, platformName=Android, platformVersion=8.1.0, statBarHeight=32, takesScreenshot=true, udid=ecbfd827b282a9dc, viewportRect={left=0, top=32, width=800, height=1248}, warnings={}, wdaLocalPort=8200, webStorageEnabled=false, –session-override=true}
+2019-06-10 17:57:05 [TestNG-PoolService-0] INFO  MFilterBySqFt:44 - driver is io.appium.java_client.android.AndroidDriver, Capabilities: {app=/Users/angee/EclipseProjects/XOMEGRID/src/test/resources/base.apk, appPackage=com.xome.android, automationName=UIAutomator2, databaseEnabled=false, desired={platformName=android, –session-override=true, app=/Users/angee/EclipseProjects/XOMEGRID/src/test/resources/base.apk, automationName=UIAutomator2, deviceName=Nexus, newCommandTimeout=100000, noReset=true, platformVersion=7.1.1, udid=HT4CJJT00982, wdaLocalPort=8201}, deviceApiLevel=27, deviceManufacturer=samsung, deviceModel=SM-T380, deviceName=HT4CJJT00982, deviceScreenDensity=213, deviceScreenSize=800x1280, deviceUDID=HT4CJJT00982, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, newCommandTimeout=100000, noReset=true, pixelRatio=1.3312501, platform=LINUX, platformName=Android, platformVersion=8.1.0, statBarHeight=32, takesScreenshot=true, udid=HT4CJJT00982, viewportRect={left=0, top=32, width=800, height=1248}, warnings={}, wdaLocalPort=8201, webStorageEnabled=false, –session-override=true}
+2019-06-10 18:17:28 [TestNG-PoolService-0] INFO  MFilterBySqFt:44 - driver is io.appium.java_client.android.AndroidDriver, Capabilities: {app=/Users/angee/EclipseProjects/XOMEGRID/src/test/resources/base.apk, appPackage=com.xome.android, automationName=UIAutomator2, databaseEnabled=false, desired={platformName=android, –session-override=true, app=/Users/angee/EclipseProjects/XOMEGRID/src/test/resources/base.apk, automationName=UIAutomator2, deviceName=Nexus, newCommandTimeout=100000, noReset=true, platformVersion=7.1.1, udid=HT4CJJT00982, wdaLocalPort=8201}, deviceApiLevel=27, deviceManufacturer=samsung, deviceModel=SM-T380, deviceName=HT4CJJT00982, deviceScreenDensity=213, deviceScreenSize=800x1280, deviceUDID=HT4CJJT00982, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, newCommandTimeout=100000, noReset=true, pixelRatio=1.3312501, platform=LINUX, platformName=Android, platformVersion=8.1.0, statBarHeight=32, takesScreenshot=true, udid=HT4CJJT00982, viewportRect={left=0, top=32, width=800, height=1248}, warnings={}, wdaLocalPort=8201, webStorageEnabled=false, –session-override=true}
+2019-06-10 18:17:28 [TestNG-PoolService-0] INFO  MFilterBySqFt:44 - driver is io.appium.java_client.android.AndroidDriver, Capabilities: {app=/Users/angee/EclipseProjects/XOMEGRID/src/test/resources/base.apk, appPackage=com.xome.android, automationName=UIAutomator2, databaseEnabled=false, desired={platformName=android, –session-override=true, app=/Users/angee/EclipseProjects/XOMEGRID/src/test/resources/base.apk, automationName=UIAutomator2, deviceName=GalaxyTabA2017, newCommandTimeout=100000, noReset=true, platformVersion=8.1.0, udid=ecbfd827b282a9dc, wdaLocalPort=8200}, deviceApiLevel=27, deviceManufacturer=samsung, deviceModel=SM-T380, deviceName=ecbfd827b282a9dc, deviceScreenDensity=213, deviceScreenSize=800x1280, deviceUDID=ecbfd827b282a9dc, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, newCommandTimeout=100000, noReset=true, pixelRatio=1.3312501, platform=LINUX, platformName=Android, platformVersion=8.1.0, statBarHeight=32, takesScreenshot=true, udid=ecbfd827b282a9dc, viewportRect={left=0, top=32, width=800, height=1248}, warnings={}, wdaLocalPort=8200, webStorageEnabled=false, –session-override=true}
+2019-06-10 18:18:30 [TestNG-PoolService-0] INFO  MLogin_Page:60 - Failed to find allow device access button at startup.
+2019-06-10 18:18:30 [TestNG-PoolService-0] INFO  MLogin_Page:60 - Failed to find allow device access button at startup.
+2019-06-10 20:31:15 [TestNG-PoolService-0] INFO  MFilterBySqFt:44 - driver is io.appium.java_client.android.AndroidDriver, Capabilities: {app=/Users/angee/EclipseProjects/XOMEGRID/src/test/resources/base.apk, appPackage=com.xome.android, automationName=UIAutomator2, databaseEnabled=false, desired={platformName=android, –session-override=true, app=/Users/angee/EclipseProjects/XOMEGRID/src/test/resources/base.apk, automationName=UIAutomator2, deviceName=Nexus, newCommandTimeout=100000, noReset=true, platformVersion=7.1.1, udid=HT4CJJT00982, wdaLocalPort=8201}, deviceApiLevel=27, deviceManufacturer=samsung, deviceModel=SM-T380, deviceName=HT4CJJT00982, deviceScreenDensity=213, deviceScreenSize=800x1280, deviceUDID=HT4CJJT00982, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, newCommandTimeout=100000, noReset=true, pixelRatio=1.3312501, platform=LINUX, platformName=Android, platformVersion=8.1.0, statBarHeight=32, takesScreenshot=true, udid=HT4CJJT00982, viewportRect={left=0, top=32, width=800, height=1248}, warnings={}, wdaLocalPort=8201, webStorageEnabled=false, –session-override=true}
+2019-06-10 20:31:16 [TestNG-PoolService-0] INFO  MFilterBySqFt:44 - driver is io.appium.java_client.android.AndroidDriver, Capabilities: {app=/Users/angee/EclipseProjects/XOMEGRID/src/test/resources/base.apk, appPackage=com.xome.android, automationName=UIAutomator2, databaseEnabled=false, desired={platformName=android, –session-override=true, app=/Users/angee/EclipseProjects/XOMEGRID/src/test/resources/base.apk, automationName=UIAutomator2, deviceName=GalaxyTabA2017, newCommandTimeout=100000, noReset=true, platformVersion=8.1.0, udid=ecbfd827b282a9dc, wdaLocalPort=8200}, deviceApiLevel=27, deviceManufacturer=samsung, deviceModel=SM-T380, deviceName=ecbfd827b282a9dc, deviceScreenDensity=213, deviceScreenSize=800x1280, deviceUDID=ecbfd827b282a9dc, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, newCommandTimeout=100000, noReset=true, pixelRatio=1.3312501, platform=LINUX, platformName=Android, platformVersion=8.1.0, statBarHeight=32, takesScreenshot=true, udid=ecbfd827b282a9dc, viewportRect={left=0, top=32, width=800, height=1248}, warnings={}, wdaLocalPort=8200, webStorageEnabled=false, –session-override=true}
+2019-06-10 20:31:32 [TestNG-PoolService-0] INFO  MLogin_Page:60 - Failed to find allow device access button at startup.
+2019-06-10 21:02:39 [TestNG-PoolService-0] INFO  MFilterBySqFt:44 - driver is io.appium.java_client.android.AndroidDriver, Capabilities: {app=/Users/angee/EclipseProjects/XOMEGRID/src/test/resources/base.apk, appPackage=com.xome.android, automationName=UIAutomator2, databaseEnabled=false, desired={platformName=android, –session-override=true, app=/Users/angee/EclipseProjects/XOMEGRID/src/test/resources/base.apk, automationName=UIAutomator2, deviceName=GalaxyTabA2017, newCommandTimeout=100000, noReset=true, platformVersion=8.1.0, udid=ecbfd827b282a9dc, wdaLocalPort=8200}, deviceApiLevel=27, deviceManufacturer=samsung, deviceModel=SM-T380, deviceName=ecbfd827b282a9dc, deviceScreenDensity=213, deviceScreenSize=800x1280, deviceUDID=ecbfd827b282a9dc, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, newCommandTimeout=100000, noReset=true, pixelRatio=1.3312501, platform=LINUX, platformName=Android, platformVersion=8.1.0, statBarHeight=32, takesScreenshot=true, udid=ecbfd827b282a9dc, viewportRect={left=0, top=32, width=800, height=1248}, warnings={}, wdaLocalPort=8200, webStorageEnabled=false, –session-override=true}
+2019-06-10 21:02:39 [TestNG-PoolService-0] INFO  MFilterBySqFt:44 - driver is io.appium.java_client.android.AndroidDriver, Capabilities: {app=/Users/angee/EclipseProjects/XOMEGRID/src/test/resources/base.apk, appPackage=com.xome.android, automationName=UIAutomator2, databaseEnabled=false, desired={platformName=android, –session-override=true, app=/Users/angee/EclipseProjects/XOMEGRID/src/test/resources/base.apk, automationName=UIAutomator2, deviceName=Nexus, newCommandTimeout=100000, noReset=true, platformVersion=7.1.1, udid=HT4CJJT00982, wdaLocalPort=8201}, deviceApiLevel=27, deviceManufacturer=samsung, deviceModel=SM-T380, deviceName=HT4CJJT00982, deviceScreenDensity=213, deviceScreenSize=800x1280, deviceUDID=HT4CJJT00982, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, newCommandTimeout=100000, noReset=true, pixelRatio=1.3312501, platform=LINUX, platformName=Android, platformVersion=8.1.0, statBarHeight=32, takesScreenshot=true, udid=HT4CJJT00982, viewportRect={left=0, top=32, width=800, height=1248}, warnings={}, wdaLocalPort=8201, webStorageEnabled=false, –session-override=true}
+2019-06-10 21:03:24 [TestNG-PoolService-0] INFO  MFilterResults_Page:657 - It filter by min square feet  1500 and max square feet 2000 successfully.
+2019-06-10 21:03:25 [TestNG-PoolService-0] INFO  MLogin_Page:61 - Failed to find allow device access button at startup.
+2019-06-10 21:36:32 [TestNG-PoolService-0] INFO  MFilterBySqFt:44 - driver is io.appium.java_client.android.AndroidDriver, Capabilities: {app=/Users/angee/EclipseProjects/XOMEGRID/src/test/resources/base.apk, appPackage=com.xome.android, automationName=UIAutomator2, databaseEnabled=false, desired={platformName=android, –session-override=true, app=/Users/angee/EclipseProjects/XOMEGRID/src/test/resources/base.apk, automationName=UIAutomator2, deviceName=Nexus, newCommandTimeout=100000, noReset=true, platformVersion=7.1.1, udid=HT4CJJT00982, wdaLocalPort=8201}, deviceApiLevel=27, deviceManufacturer=samsung, deviceModel=SM-T380, deviceName=HT4CJJT00982, deviceScreenDensity=213, deviceScreenSize=800x1280, deviceUDID=HT4CJJT00982, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, newCommandTimeout=100000, noReset=true, pixelRatio=1.3312501, platform=LINUX, platformName=Android, platformVersion=8.1.0, statBarHeight=32, takesScreenshot=true, udid=HT4CJJT00982, viewportRect={left=0, top=32, width=800, height=1248}, warnings={}, wdaLocalPort=8201, webStorageEnabled=false, –session-override=true}
+2019-06-10 21:36:32 [TestNG-PoolService-0] INFO  MFilterBySqFt:44 - driver is io.appium.java_client.android.AndroidDriver, Capabilities: {app=/Users/angee/EclipseProjects/XOMEGRID/src/test/resources/base.apk, appPackage=com.xome.android, automationName=UIAutomator2, databaseEnabled=false, desired={platformName=android, –session-override=true, app=/Users/angee/EclipseProjects/XOMEGRID/src/test/resources/base.apk, automationName=UIAutomator2, deviceName=GalaxyTabA2017, newCommandTimeout=100000, noReset=true, platformVersion=8.1.0, udid=ecbfd827b282a9dc, wdaLocalPort=8200}, deviceApiLevel=27, deviceManufacturer=samsung, deviceModel=SM-T380, deviceName=ecbfd827b282a9dc, deviceScreenDensity=213, deviceScreenSize=800x1280, deviceUDID=ecbfd827b282a9dc, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, newCommandTimeout=100000, noReset=true, pixelRatio=1.3312501, platform=LINUX, platformName=Android, platformVersion=8.1.0, statBarHeight=32, takesScreenshot=true, udid=ecbfd827b282a9dc, viewportRect={left=0, top=32, width=800, height=1248}, warnings={}, wdaLocalPort=8200, webStorageEnabled=false, –session-override=true}
+2019-06-10 21:37:17 [TestNG-PoolService-0] INFO  MFilterResults_Page:657 - It filter by min square feet  1500 and max square feet 2000 successfully.
+2019-06-10 21:37:18 [TestNG-PoolService-0] INFO  MLogin_Page:61 - Failed to find allow device access button at startup.
+2019-06-10 21:38:49 [TestNG-PoolService-0] INFO  MFilterBySqFt:44 - driver is io.appium.java_client.android.AndroidDriver, Capabilities: {app=/Users/angee/EclipseProjects/XOMEGRID/src/test/resources/base.apk, appPackage=com.xome.android, automationName=UIAutomator2, databaseEnabled=false, desired={platformName=android, –session-override=true, app=/Users/angee/EclipseProjects/XOMEGRID/src/test/resources/base.apk, automationName=UIAutomator2, deviceName=GalaxyTabA2017, newCommandTimeout=100000, noReset=true, platformVersion=8.1.0, udid=ecbfd827b282a9dc, wdaLocalPort=8200}, deviceApiLevel=27, deviceManufacturer=samsung, deviceModel=SM-T380, deviceName=ecbfd827b282a9dc, deviceScreenDensity=213, deviceScreenSize=800x1280, deviceUDID=ecbfd827b282a9dc, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, newCommandTimeout=100000, noReset=true, pixelRatio=1.3312501, platform=LINUX, platformName=Android, platformVersion=8.1.0, statBarHeight=32, takesScreenshot=true, udid=ecbfd827b282a9dc, viewportRect={left=0, top=32, width=800, height=1248}, warnings={}, wdaLocalPort=8200, webStorageEnabled=false, –session-override=true}
+2019-06-10 21:38:50 [TestNG-PoolService-0] INFO  MFilterBySqFt:44 - driver is io.appium.java_client.android.AndroidDriver, Capabilities: {app=/Users/angee/EclipseProjects/XOMEGRID/src/test/resources/base.apk, appPackage=com.xome.android, automationName=UIAutomator2, databaseEnabled=false, desired={platformName=android, –session-override=true, app=/Users/angee/EclipseProjects/XOMEGRID/src/test/resources/base.apk, automationName=UIAutomator2, deviceName=Nexus, newCommandTimeout=100000, noReset=true, platformVersion=7.1.1, udid=HT4CJJT00982, wdaLocalPort=8201}, deviceApiLevel=25, deviceManufacturer=htc, deviceModel=Nexus 9, deviceName=HT4CJJT00982, deviceScreenDensity=320, deviceScreenSize=1536x2048, deviceUDID=HT4CJJT00982, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, newCommandTimeout=100000, noReset=true, pixelRatio=2, platform=LINUX, platformName=Android, platformVersion=7.1.1, statBarHeight=48, takesScreenshot=true, udid=HT4CJJT00982, viewportRect={left=0, top=48, width=1536, height=1904}, warnings={}, wdaLocalPort=8201, webStorageEnabled=false, –session-override=true}
+2019-06-10 21:39:33 [TestNG-PoolService-0] INFO  MFilterResults_Page:657 - It filter by min square feet  1500 and max square feet 2000 successfully.
+2019-06-10 21:40:50 [TestNG-PoolService-0] INFO  MLogin_Page:61 - Failed to find allow device access button at startup.
+2019-06-10 21:41:25 [TestNG-PoolService-0] INFO  MFilterBySqFt:44 - driver is io.appium.java_client.android.AndroidDriver, Capabilities: {app=/Users/angee/EclipseProjects/XOMEGRID/src/test/resources/base.apk, appPackage=com.xome.android, automationName=UIAutomator2, databaseEnabled=false, desired={platformName=android, –session-override=true, app=/Users/angee/EclipseProjects/XOMEGRID/src/test/resources/base.apk, automationName=UIAutomator2, deviceName=GalaxyTabA2017, newCommandTimeout=100000, noReset=true, platformVersion=8.1.0, udid=ecbfd827b282a9dc, wdaLocalPort=8200}, deviceApiLevel=27, deviceManufacturer=samsung, deviceModel=SM-T380, deviceName=ecbfd827b282a9dc, deviceScreenDensity=213, deviceScreenSize=800x1280, deviceUDID=ecbfd827b282a9dc, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, newCommandTimeout=100000, noReset=true, pixelRatio=1.3312501, platform=LINUX, platformName=Android, platformVersion=8.1.0, statBarHeight=32, takesScreenshot=true, udid=ecbfd827b282a9dc, viewportRect={left=0, top=32, width=800, height=1248}, warnings={}, wdaLocalPort=8200, webStorageEnabled=false, –session-override=true}
+2019-06-10 21:41:27 [TestNG-PoolService-0] INFO  MFilterBySqFt:44 - driver is io.appium.java_client.android.AndroidDriver, Capabilities: {app=/Users/angee/EclipseProjects/XOMEGRID/src/test/resources/base.apk, appPackage=com.xome.android, automationName=UIAutomator2, databaseEnabled=false, desired={platformName=android, –session-override=true, app=/Users/angee/EclipseProjects/XOMEGRID/src/test/resources/base.apk, automationName=UIAutomator2, deviceName=Nexus, newCommandTimeout=100000, noReset=true, platformVersion=7.1.1, udid=HT4CJJT00982, wdaLocalPort=8201}, deviceApiLevel=25, deviceManufacturer=htc, deviceModel=Nexus 9, deviceName=HT4CJJT00982, deviceScreenDensity=320, deviceScreenSize=1536x2048, deviceUDID=HT4CJJT00982, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, newCommandTimeout=100000, noReset=true, pixelRatio=2, platform=LINUX, platformName=Android, platformVersion=7.1.1, statBarHeight=48, takesScreenshot=true, udid=HT4CJJT00982, viewportRect={left=0, top=48, width=1536, height=1904}, warnings={}, wdaLocalPort=8201, webStorageEnabled=false, –session-override=true}
+2019-06-10 21:42:10 [TestNG-PoolService-0] INFO  MFilterResults_Page:657 - It filter by min square feet  1500 and max square feet 2000 successfully.
+2019-06-10 21:42:10 [TestNG-PoolService-0] INFO  MFilterResults_Page:657 - It filter by min square feet  1500 and max square feet 2000 successfully.
+2019-06-10 21:51:28 [TestNG-PoolService-0] INFO  MFilterBySqFt:44 - driver is io.appium.java_client.android.AndroidDriver, Capabilities: {app=/Users/angee/EclipseProjects/XOMEGRID/src/test/resources/base.apk, appPackage=com.xome.android, automationName=UIAutomator2, databaseEnabled=false, desired={platformName=android, –session-override=true, app=/Users/angee/EclipseProjects/XOMEGRID/src/test/resources/base.apk, automationName=UIAutomator2, deviceName=GalaxyTabA2017, newCommandTimeout=100000, noReset=true, platformVersion=8.1.0, udid=ecbfd827b282a9dc, wdaLocalPort=8200}, deviceApiLevel=27, deviceManufacturer=samsung, deviceModel=SM-T380, deviceName=ecbfd827b282a9dc, deviceScreenDensity=213, deviceScreenSize=800x1280, deviceUDID=ecbfd827b282a9dc, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, newCommandTimeout=100000, noReset=true, pixelRatio=1.3312501, platform=LINUX, platformName=Android, platformVersion=8.1.0, statBarHeight=32, takesScreenshot=true, udid=ecbfd827b282a9dc, viewportRect={left=0, top=32, width=800, height=1248}, warnings={}, wdaLocalPort=8200, webStorageEnabled=false, –session-override=true}
+2019-06-10 21:51:30 [TestNG-PoolService-0] INFO  MFilterBySqFt:44 - driver is io.appium.java_client.android.AndroidDriver, Capabilities: {app=/Users/angee/EclipseProjects/XOMEGRID/src/test/resources/base.apk, appPackage=com.xome.android, automationName=UIAutomator2, databaseEnabled=false, desired={platformName=android, –session-override=true, app=/Users/angee/EclipseProjects/XOMEGRID/src/test/resources/base.apk, automationName=UIAutomator2, deviceName=Nexus, newCommandTimeout=100000, noReset=true, platformVersion=7.1.1, udid=HT4CJJT00982, wdaLocalPort=8201}, deviceApiLevel=25, deviceManufacturer=htc, deviceModel=Nexus 9, deviceName=HT4CJJT00982, deviceScreenDensity=320, deviceScreenSize=1536x2048, deviceUDID=HT4CJJT00982, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, newCommandTimeout=100000, noReset=true, pixelRatio=2, platform=LINUX, platformName=Android, platformVersion=7.1.1, statBarHeight=48, takesScreenshot=true, udid=HT4CJJT00982, viewportRect={left=0, top=48, width=1536, height=1904}, warnings={}, wdaLocalPort=8201, webStorageEnabled=false, –session-override=true}
+2019-06-10 21:57:58 [TestNG-PoolService-0] INFO  MFilterBySqFt:44 - driver is io.appium.java_client.android.AndroidDriver, Capabilities: {app=/Users/angee/EclipseProjects/XOMEGRID/src/test/resources/base.apk, appPackage=com.xome.android, automationName=UIAutomator2, databaseEnabled=false, desired={platformName=android, –session-override=true, app=/Users/angee/EclipseProjects/XOMEGRID/src/test/resources/base.apk, automationName=UIAutomator2, deviceName=Nexus, newCommandTimeout=100000, noReset=true, platformVersion=7.1.1, udid=HT4CJJT00982, wdaLocalPort=8201}, deviceApiLevel=25, deviceManufacturer=htc, deviceModel=Nexus 9, deviceName=HT4CJJT00982, deviceScreenDensity=320, deviceScreenSize=1536x2048, deviceUDID=HT4CJJT00982, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, newCommandTimeout=100000, noReset=true, pixelRatio=2, platform=LINUX, platformName=Android, platformVersion=7.1.1, statBarHeight=48, takesScreenshot=true, udid=HT4CJJT00982, viewportRect={left=0, top=48, width=1536, height=1904}, warnings={}, wdaLocalPort=8201, webStorageEnabled=false, –session-override=true}
+2019-06-10 21:58:05 [TestNG-PoolService-0] INFO  MFilterBySqFt:44 - driver is io.appium.java_client.android.AndroidDriver, Capabilities: {app=/Users/angee/EclipseProjects/XOMEGRID/src/test/resources/base.apk, appPackage=com.xome.android, automationName=UIAutomator2, databaseEnabled=false, desired={platformName=android, –session-override=true, app=/Users/angee/EclipseProjects/XOMEGRID/src/test/resources/base.apk, automationName=UIAutomator2, deviceName=GalaxyTabA2017, newCommandTimeout=100000, noReset=true, platformVersion=8.1.0, udid=ecbfd827b282a9dc, wdaLocalPort=8200}, deviceApiLevel=27, deviceManufacturer=samsung, deviceModel=SM-T380, deviceName=ecbfd827b282a9dc, deviceScreenDensity=213, deviceScreenSize=800x1280, deviceUDID=ecbfd827b282a9dc, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, newCommandTimeout=100000, noReset=true, pixelRatio=1.3312501, platform=LINUX, platformName=Android, platformVersion=8.1.0, statBarHeight=32, takesScreenshot=true, udid=ecbfd827b282a9dc, viewportRect={left=0, top=32, width=800, height=1248}, warnings={}, wdaLocalPort=8200, webStorageEnabled=false, –session-override=true}
+2019-06-10 21:58:41 [TestNG-PoolService-0] INFO  MFilterResults_Page:657 - It filter by min square feet  1500 and max square feet 2000 successfully.
+2019-06-10 21:58:51 [TestNG-PoolService-0] INFO  MFilterResults_Page:657 - It filter by min square feet  1500 and max square feet 2000 successfully.
+2019-06-10 22:12:58 [TestNG-PoolService-0] INFO  MFilterResults_Page:721 - It filtered by 3 baths successfully.
+2019-06-10 22:13:00 [TestNG-PoolService-0] INFO  MFilterResults_Page:721 - It filtered by 3 baths successfully.
+2019-06-10 22:13:44 [TestNG-PoolService-0] INFO  MFilterResults_Page:689 - It filtered by 3 beds successfully.
+2019-06-10 22:13:53 [TestNG-PoolService-0] INFO  MFilterResults_Page:689 - It filtered by 3 beds successfully.
+2019-06-10 22:14:58 [TestNG-PoolService-0] INFO  MFilterResults_Page:622 - It filter by keyword hardwood floor successfully.
+2019-06-10 22:15:12 [TestNG-PoolService-0] INFO  MFilterResults_Page:622 - It filter by keyword hardwood floor successfully.
+2019-06-10 22:15:31 [TestNG-PoolService-0] INFO  MFilterResults_Page:87 - Active status is unchecked.
+2019-06-10 22:15:31 [TestNG-PoolService-0] INFO  MFilterResults_Page:98 - Pending status is unchecked.
+2019-06-10 22:15:32 [TestNG-PoolService-0] INFO  MFilterResults_Page:108 - Sold status is unchecked.
+2019-06-10 22:15:36 [TestNG-PoolService-0] INFO  MFilterResults_Page:142 - Active status is checked.
+2019-06-10 22:15:48 [TestNG-PoolService-0] INFO  MFilterResults_Page:87 - Active status is unchecked.
+2019-06-10 22:15:49 [TestNG-PoolService-0] INFO  MFilterResults_Page:98 - Pending status is unchecked.
+2019-06-10 22:15:49 [TestNG-PoolService-0] INFO  MFilterResults_Page:108 - Sold status is unchecked.
+2019-06-10 22:15:53 [TestNG-PoolService-0] INFO  MFilterResults_Page:807 - It filtered by for sale active status successfully.
+2019-06-10 22:15:53 [TestNG-PoolService-0] INFO  MFilterResults_Page:142 - Active status is checked.
+2019-06-10 22:16:12 [TestNG-PoolService-0] INFO  MFilterResults_Page:807 - It filtered by for sale active status successfully.
+2019-06-10 22:16:23 [TestNG-PoolService-0] INFO  MFilterResults_Page:87 - Active status is unchecked.
+2019-06-10 22:16:24 [TestNG-PoolService-0] INFO  MFilterResults_Page:98 - Pending status is unchecked.
+2019-06-10 22:16:24 [TestNG-PoolService-0] INFO  MFilterResults_Page:108 - Sold status is unchecked.
+2019-06-10 22:16:29 [TestNG-PoolService-0] INFO  MFilterResults_Page:123 - Pending status is checked.
+2019-06-10 22:16:47 [TestNG-PoolService-0] INFO  MFilterResults_Page:750 - It filtered by pending status successfully.
+2019-06-10 22:16:48 [TestNG-PoolService-0] INFO  MFilterResults_Page:87 - Active status is unchecked.
+2019-06-10 22:16:49 [TestNG-PoolService-0] INFO  MFilterResults_Page:98 - Pending status is unchecked.
+2019-06-10 22:16:49 [TestNG-PoolService-0] INFO  MFilterResults_Page:108 - Sold status is unchecked.
+2019-06-10 22:16:53 [TestNG-PoolService-0] INFO  MFilterResults_Page:123 - Pending status is checked.
+2019-06-10 22:17:13 [TestNG-PoolService-0] INFO  MFilterResults_Page:750 - It filtered by pending status successfully.
+2019-06-10 22:17:17 [TestNG-PoolService-0] INFO  MFilterResults_Page:87 - Active status is unchecked.
+2019-06-10 22:17:17 [TestNG-PoolService-0] INFO  MFilterResults_Page:98 - Pending status is unchecked.
+2019-06-10 22:17:18 [TestNG-PoolService-0] INFO  MFilterResults_Page:108 - Sold status is unchecked.
+2019-06-10 22:17:22 [TestNG-PoolService-0] INFO  MFilterResults_Page:132 - Sold status is checked.
+2019-06-10 22:17:40 [TestNG-PoolService-0] INFO  MFilterResults_Page:778 - It filtered by sold status successfully.
+2019-06-10 22:17:50 [TestNG-PoolService-0] INFO  MFilterResults_Page:87 - Active status is unchecked.
+2019-06-10 22:17:50 [TestNG-PoolService-0] INFO  MFilterResults_Page:98 - Pending status is unchecked.
+2019-06-10 22:17:51 [TestNG-PoolService-0] INFO  MFilterResults_Page:108 - Sold status is unchecked.
+2019-06-10 22:17:55 [TestNG-PoolService-0] INFO  MFilterResults_Page:132 - Sold status is checked.
+2019-06-10 22:18:14 [TestNG-PoolService-0] INFO  MFilterResults_Page:778 - It filtered by sold status successfully.
+2019-06-10 22:18:41 [TestNG-PoolService-0] INFO  MFilterResults_Page:968 - Condo, 2 Story
+2019-06-10 22:18:53 [TestNG-PoolService-0] INFO  MFilterResults_Page:982 - Condo, 2 Story
+2019-06-10 22:19:05 [TestNG-PoolService-0] INFO  MFilterResults_Page:982 - Condo/Townhouse, 1 Story
+2019-06-10 22:19:05 [TestNG-PoolService-0] INFO  MFilterResults_Page:1001 - It filter by condo successfully.
+2019-06-10 22:19:25 [TestNG-PoolService-0] INFO  MFilterResults_Page:968 - Condo, 2 Story
+2019-06-10 22:19:39 [TestNG-PoolService-0] INFO  MFilterResults_Page:982 - Condo, 2 Story
+2019-06-10 22:19:53 [TestNG-PoolService-0] INFO  MFilterResults_Page:982 - Condo/Townhouse, 1 Story
+2019-06-10 22:19:53 [TestNG-PoolService-0] INFO  MFilterResults_Page:1001 - It filter by condo successfully.
+2019-06-10 22:20:09 [TestNG-PoolService-0] INFO  MFilterResults_Page:853 - Single Family, 2 Story
+2019-06-10 22:20:21 [TestNG-PoolService-0] INFO  MFilterResults_Page:867 - Single Family, Ranch, 2 Story
+2019-06-10 22:20:33 [TestNG-PoolService-0] INFO  MFilterResults_Page:867 - Single Family, 2 Story
+2019-06-10 22:20:33 [TestNG-PoolService-0] INFO  MFilterResults_Page:886 - It filter by Single Family successfully.
+2019-06-10 22:21:04 [TestNG-PoolService-0] INFO  MFilterResults_Page:853 - Single Family, 2 Story
+2019-06-10 22:21:19 [TestNG-PoolService-0] INFO  MFilterResults_Page:867 - Single Family, Ranch, 2 Story
+2019-06-10 22:21:33 [TestNG-PoolService-0] INFO  MFilterResults_Page:867 - Single Family, 2 Story
+2019-06-10 22:21:33 [TestNG-PoolService-0] INFO  MFilterResults_Page:886 - It filter by Single Family successfully.
+2019-06-10 22:21:36 [TestNG-PoolService-0] INFO  MFilterResults_Page:910 - Condo/Townhouse, 2 Story
+2019-06-10 22:21:48 [TestNG-PoolService-0] INFO  MFilterResults_Page:925 - Condo/Townhouse, 1 Story
+2019-06-10 22:22:01 [TestNG-PoolService-0] INFO  MFilterResults_Page:925 - Condo/Townhouse, 2 Story
+2019-06-10 22:22:01 [TestNG-PoolService-0] INFO  MFilterResults_Page:944 - It filter by Townhouse successfully.
+2019-06-10 22:22:16 [TestNG-PoolService-0] INFO  MFilterBySqFt:44 - driver is io.appium.java_client.android.AndroidDriver, Capabilities: {app=/Users/angee/EclipseProjects/XOMEGRID/src/test/resources/base.apk, appPackage=com.xome.android, automationName=UIAutomator2, databaseEnabled=false, desired={platformName=android, –session-override=true, app=/Users/angee/EclipseProjects/XOMEGRID/src/test/resources/base.apk, automationName=UIAutomator2, deviceName=Nexus, newCommandTimeout=100000, noReset=true, platformVersion=7.1.1, udid=HT4CJJT00982, wdaLocalPort=8201}, deviceApiLevel=25, deviceManufacturer=htc, deviceModel=Nexus 9, deviceName=HT4CJJT00982, deviceScreenDensity=320, deviceScreenSize=1536x2048, deviceUDID=HT4CJJT00982, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, newCommandTimeout=100000, noReset=true, pixelRatio=2, platform=LINUX, platformName=Android, platformVersion=7.1.1, statBarHeight=48, takesScreenshot=true, udid=HT4CJJT00982, viewportRect={left=0, top=48, width=1536, height=1904}, warnings={}, wdaLocalPort=8201, webStorageEnabled=false, –session-override=true}
+2019-06-10 22:22:45 [TestNG-PoolService-0] INFO  MFilterResults_Page:910 - Condo/Townhouse, 2 Story
+2019-06-10 22:22:56 [TestNG-PoolService-0] INFO  MFilterResults_Page:657 - It filter by min square feet  1500 and max square feet 2000 successfully.
+2019-06-10 22:22:59 [TestNG-PoolService-0] INFO  MFilterResults_Page:925 - Condo/Townhouse, 1 Story
+2019-06-10 22:23:13 [TestNG-PoolService-0] INFO  MFilterResults_Page:925 - Condo/Townhouse, 2 Story
+2019-06-10 22:23:13 [TestNG-PoolService-0] INFO  MFilterResults_Page:944 - It filter by Townhouse successfully.
+2019-06-10 22:23:30 [TestNG-PoolService-0] INFO  MFilterBySqFt:44 - driver is io.appium.java_client.android.AndroidDriver, Capabilities: {app=/Users/angee/EclipseProjects/XOMEGRID/src/test/resources/base.apk, appPackage=com.xome.android, automationName=UIAutomator2, databaseEnabled=false, desired={platformName=android, –session-override=true, app=/Users/angee/EclipseProjects/XOMEGRID/src/test/resources/base.apk, automationName=UIAutomator2, deviceName=GalaxyTabA2017, newCommandTimeout=100000, noReset=true, platformVersion=8.1.0, udid=ecbfd827b282a9dc, wdaLocalPort=8200}, deviceApiLevel=27, deviceManufacturer=samsung, deviceModel=SM-T380, deviceName=ecbfd827b282a9dc, deviceScreenDensity=213, deviceScreenSize=800x1280, deviceUDID=ecbfd827b282a9dc, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, newCommandTimeout=100000, noReset=true, pixelRatio=1.3312501, platform=LINUX, platformName=Android, platformVersion=8.1.0, statBarHeight=32, takesScreenshot=true, udid=ecbfd827b282a9dc, viewportRect={left=0, top=32, width=800, height=1248}, warnings={}, wdaLocalPort=8200, webStorageEnabled=false, –session-override=true}
+2019-06-10 22:24:11 [TestNG-PoolService-0] INFO  MFilterResults_Page:657 - It filter by min square feet  1500 and max square feet 2000 successfully.
+2019-06-10 22:24:12 [TestNG-PoolService-0] INFO  MFilterResults_Page:518 - yearmatch1 is true
+2019-06-10 22:24:23 [TestNG-PoolService-0] INFO  MFilterResults_Page:552 - yearmatch2 is true
+2019-06-10 22:24:35 [TestNG-PoolService-0] INFO  MFilterResults_Page:557 - yearmatch3 is true
+2019-06-10 22:24:35 [TestNG-PoolService-0] INFO  MFilterResults_Page:565 - It filter by min year 1995 and max year 2015 successfully.
+2019-06-10 22:25:36 [TestNG-PoolService-0] INFO  MFilterResults_Page:518 - yearmatch1 is true
+2019-06-10 22:25:50 [TestNG-PoolService-0] INFO  MFilterResults_Page:552 - yearmatch2 is true
+2019-06-10 22:26:04 [TestNG-PoolService-0] INFO  MFilterResults_Page:557 - yearmatch3 is true
+2019-06-10 22:26:04 [TestNG-PoolService-0] INFO  MFilterResults_Page:565 - It filter by min year 1995 and max year 2015 successfully.

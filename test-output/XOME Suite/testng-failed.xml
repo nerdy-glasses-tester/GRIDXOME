@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="2" guice-stage="DEVELOPMENT" verbose="10" name="Failed suite [XOME Suite]" parallel="tests">
+  <listeners>
+    <listener class-name="common.TestListener"/>
+  </listeners>
+  <test thread-count="2" verbose="10" name="Android GalaxyTabA2017 Tests(failed)" parallel="tests">
+    <parameter name="deviceID" value="ecbfd827b282a9dc"/>
+    <classes>
+      <class name="mobileTests.MFilterBySqFt">
+        <methods>
+          <include name="setDriver"/>
+          <include name="mFilterSqFt" invocation-numbers="0"/>
+          <include name="OnFailure"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- mobileTests.MFilterBySqFt -->
+    </classes>
+  </test> <!-- Android GalaxyTabA2017 Tests(failed) -->
+</suite> <!-- Failed suite [XOME Suite] -->

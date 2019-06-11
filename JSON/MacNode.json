@@ -1,0 +1,46 @@
+{
+  "capabilities":
+  [
+    {
+      "browserName": "firefox",
+      "marionette": true,
+      "maxInstances": 1,
+      "version": 66,
+      "platform": "MAC",
+      "seleniumProtocol": "WebDriver",
+      "webdriver.gecko.driver": "/Users/angee/seleniumgrid/geckodriver",
+      "binary": "/Applications/Firefox.app/Contents/MacOS/firefox-bin"
+    },
+    {
+      "browserName": "chrome",
+      "maxInstances": 1,
+      "version": 73,
+      "platform": "MAC",
+      "seleniumProtocol": "WebDriver"
+    },
+    {
+      "browserName": "safari",
+      "technologyPreview": false,
+      "platform": "MAC",
+      "maxInstances": 1,
+      "seleniumProtocol": "WebDriver"
+    }
+  ],
+  "proxy": "org.openqa.grid.selenium.proxy.DefaultRemoteProxy",
+  "maxSession": 1,
+  "port": 5555,
+  "register": true,
+  "registerCycle": 5000,
+  "hub": "http://xxx.xxx.x.x:4444",
+  "nodeStatusCheckTimeout": 5000,
+  "nodePolling": 5000,
+  "role": "node",
+  "cleanUpCycle": 5000,
+  "timeout": 5000,
+  "unregisterIfStillDownAfter": 60000,
+  "downPollingLimit": 2,
+  "debug": false,
+  "servlets" : [],
+  "withoutServlets": [],
+  "custom": {}
+}

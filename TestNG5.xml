@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="XOME Suite" parallel="tests" verbose="10" thread-count="2">
+
+	<listeners>
+	    <listener class-name="common.TestListener" />
+	</listeners>  
+
+	<test name = "Android GalaxyTabA2017 Tests" preserve-order="true" group-by-instances="true">
+    <parameter name="deviceID" value="ecbfd827b282a9dc">
+		<classes>
+	  	<class name="mobileTests.MFilterByBedBath" />
+        <class name="mobileTests.MFilterByKeyword" />
+        	<class name="mobileTests.MFilterByPendingSoldForSaleStatus" />
+        	<class name="mobileTests.MFilterByPropertyType" />
+        	<class name="mobileTests.MFilterBySqFt" />
+        	<class name="mobileTests.MFilterByYear" />
+		</classes>
+	</parameter>
+	</test>
+	
+	<test name = "Android Nexus Tests" preserve-order="true" group-by-instances="true">
+    <parameter name="deviceID" value="HT4CJJT00982">
+		<classes>
+	  	<class name="mobileTests.MFilterByBedBath" />
+        <class name="mobileTests.MFilterByKeyword" />
+        	<class name="mobileTests.MFilterByPendingSoldForSaleStatus" />
+        	<class name="mobileTests.MFilterByPropertyType" />
+        	<class name="mobileTests.MFilterBySqFt" />
+        	<class name="mobileTests.MFilterByYear" />
+		</classes>
+	</parameter>
+	</test>
+
+	
+</suite>

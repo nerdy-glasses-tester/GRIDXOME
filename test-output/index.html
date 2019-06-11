@@ -1,0 +1,1139 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+  <meta charset='utf-8'>
+  <title>TestNG reports</title>
+
+    <link type="text/css" href="testng-reports.css" rel="stylesheet" />
+    <script type="text/javascript" src="jquery-1.7.1.min.js"></script>
+    <script type="text/javascript" src="testng-reports.js"></script>
+    <script type="text/javascript" src="https://www.google.com/jsapi"></script>
+    <script type='text/javascript'>
+      google.load('visualization', '1', {packages:['table']});
+      google.setOnLoadCallback(drawTable);
+      var suiteTableInitFunctions = new Array();
+      var suiteTableData = new Array();
+    </script>
+    <!--
+      <script type="text/javascript" src="jquery-ui/js/jquery-ui-1.8.16.custom.min.js"></script>
+     -->
+  </head>
+
+  <body>
+    <div class="top-banner-root">
+      <span class="top-banner-title-font">Test results</span>
+      <br/>
+      <span class="top-banner-font-1">1 suite</span>
+    </div> <!-- top-banner-root -->
+    <div class="navigator-root">
+      <div class="navigator-suite-header">
+        <span>All suites</span>
+        <a href="#" class="collapse-all-link" title="Collapse/expand all the suites">
+          <img class="collapse-all-icon" src="collapseall.gif">
+          </img> <!-- collapse-all-icon -->
+        </a> <!-- collapse-all-link -->
+      </div> <!-- navigator-suite-header -->
+      <div class="suite">
+        <div class="rounded-window">
+          <div class="suite-header light-rounded-window-top">
+            <a href="#" class="navigator-link" panel-name="suite-XOME_Suite">
+              <span class="suite-name border-passed">XOME Suite</span>
+            </a> <!-- navigator-link -->
+          </div> <!-- suite-header light-rounded-window-top -->
+          <div class="navigator-suite-content">
+            <div class="suite-section-title">
+              <span>Info</span>
+            </div> <!-- suite-section-title -->
+            <div class="suite-section-content">
+              <ul>
+                <li>
+                  <a href="#" class="navigator-link " panel-name="test-xml-XOME_Suite">
+                    <span>TestNG5.xml</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" class="navigator-link " panel-name="testlist-XOME_Suite">
+                    <span class="test-stats">2 tests</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" class="navigator-link " panel-name="group-XOME_Suite">
+                    <span>2 groups</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" class="navigator-link " panel-name="times-XOME_Suite">
+                    <span>Times</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" class="navigator-link " panel-name="reporter-XOME_Suite">
+                    <span>Reporter output</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" class="navigator-link " panel-name="ignored-methods-XOME_Suite">
+                    <span>Ignored methods</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" class="navigator-link " panel-name="chronological-XOME_Suite">
+                    <span>Chronological view</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+              </ul>
+            </div> <!-- suite-section-content -->
+            <div class="result-section">
+              <div class="suite-section-title">
+                <span>Results</span>
+              </div> <!-- suite-section-title -->
+              <div class="suite-section-content">
+                <ul>
+                  <li>
+                    <span class="method-stats">22 methods,   22 passed</span>
+                  </li>
+                  <li>
+                    <span class="method-list-title passed">Passed methods</span>
+                    <span class="show-or-hide-methods passed">
+                      <a href="#" panel-name="suite-XOME_Suite" class="hide-methods passed suite-XOME_Suite"> (hide)</a> <!-- hide-methods passed suite-XOME_Suite -->
+                      <a href="#" panel-name="suite-XOME_Suite" class="show-methods passed suite-XOME_Suite"> (show)</a> <!-- show-methods passed suite-XOME_Suite -->
+                    </span>
+                    <div class="method-list-content passed suite-XOME_Suite">
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-XOME_Suite" title="mobileTests.MFilterByBedBath" hash-for-method="mFilterBath(Irvine, CA, 3)">mFilterBath(Irvine, CA, 3)</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-XOME_Suite" title="mobileTests.MFilterByBedBath" hash-for-method="mFilterBath(Irvine, CA, 3)">mFilterBath(Irvine, CA, 3)</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-XOME_Suite" title="mobileTests.MFilterByBedBath" hash-for-method="mFilterBed(Irvine, CA, 3)">mFilterBed(Irvine, CA, 3)</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-XOME_Suite" title="mobileTests.MFilterByBedBath" hash-for-method="mFilterBed(Irvine, CA, 3)">mFilterBed(Irvine, CA, 3)</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-XOME_Suite" title="mobileTests.MFilterByPropertyType" hash-for-method="mFilterCondo(Irvine, CA)">mFilterCondo(Irvine, CA)</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-XOME_Suite" title="mobileTests.MFilterByPropertyType" hash-for-method="mFilterCondo(Irvine, CA)">mFilterCondo(Irvine, CA)</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-XOME_Suite" title="mobileTests.MFilterByPendingSoldForSaleStatus" hash-for-method="mFilterForSale(Irvine, CA)">mFilterForSale(Irvine, CA)</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-XOME_Suite" title="mobileTests.MFilterByPendingSoldForSaleStatus" hash-for-method="mFilterForSale(Irvine, CA)">mFilterForSale(Irvine, CA)</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-XOME_Suite" title="mobileTests.MFilterByKeyword" hash-for-method="mFilterKeyword(Irvine, CA, hardwood floor)">mFilterKeyword(Irvine, CA, hardwood floor)</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-XOME_Suite" title="mobileTests.MFilterByKeyword" hash-for-method="mFilterKeyword(Irvine, CA, hardwood floor)">mFilterKeyword(Irvine, CA, hardwood floor)</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-XOME_Suite" title="mobileTests.MFilterByPendingSoldForSaleStatus" hash-for-method="mFilterPending(Irvine, CA)">mFilterPending(Irvine, CA)</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-XOME_Suite" title="mobileTests.MFilterByPendingSoldForSaleStatus" hash-for-method="mFilterPending(Irvine, CA)">mFilterPending(Irvine, CA)</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-XOME_Suite" title="mobileTests.MFilterByPropertyType" hash-for-method="mFilterSingleFamily(Irvine, CA)">mFilterSingleFamily(Irvine, CA)</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-XOME_Suite" title="mobileTests.MFilterByPropertyType" hash-for-method="mFilterSingleFamily(Irvine, CA)">mFilterSingleFamily(Irvine, CA)</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-XOME_Suite" title="mobileTests.MFilterByPendingSoldForSaleStatus" hash-for-method="mFilterSold(Irvine, CA)">mFilterSold(Irvine, CA)</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-XOME_Suite" title="mobileTests.MFilterByPendingSoldForSaleStatus" hash-for-method="mFilterSold(Irvine, CA)">mFilterSold(Irvine, CA)</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-XOME_Suite" title="mobileTests.MFilterBySqFt" hash-for-method="mFilterSqFt(Irvine, CA, 1500, 2000)">mFilterSqFt(Irvine, CA, 1500, 2000)</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-XOME_Suite" title="mobileTests.MFilterBySqFt" hash-for-method="mFilterSqFt(Irvine, CA, 1500, 2000)">mFilterSqFt(Irvine, CA, 1500, 2000)</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-XOME_Suite" title="mobileTests.MFilterByPropertyType" hash-for-method="mFilterTownHome(Irvine, CA)">mFilterTownHome(Irvine, CA)</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-XOME_Suite" title="mobileTests.MFilterByPropertyType" hash-for-method="mFilterTownHome(Irvine, CA)">mFilterTownHome(Irvine, CA)</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-XOME_Suite" title="mobileTests.MFilterByYear" hash-for-method="mFilterYear(Irvine, CA, 1995, 2015)">mFilterYear(Irvine, CA, 1995, 2015)</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-XOME_Suite" title="mobileTests.MFilterByYear" hash-for-method="mFilterYear(Irvine, CA, 1995, 2015)">mFilterYear(Irvine, CA, 1995, 2015)</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                    </div> <!-- method-list-content passed suite-XOME_Suite -->
+                  </li>
+                </ul>
+              </div> <!-- suite-section-content -->
+            </div> <!-- result-section -->
+          </div> <!-- navigator-suite-content -->
+        </div> <!-- rounded-window -->
+      </div> <!-- suite -->
+    </div> <!-- navigator-root -->
+    <div class="wrapper">
+      <div class="main-panel-root">
+        <div panel-name="suite-XOME_Suite" class="panel XOME_Suite">
+          <div class="suite-XOME_Suite-class-passed">
+            <div class="main-panel-header rounded-window-top">
+              <img src="passed.png"/>
+              <span class="class-name">mobileTests.MFilterByBedBath</span>
+            </div> <!-- main-panel-header rounded-window-top -->
+            <div class="main-panel-content rounded-window-bottom">
+              <div class="method">
+                <div class="method-content">
+                  <a name="mFilterBath(Irvine, CA, 3)">
+                  </a> <!-- mFilterBath(Irvine, CA, 3) -->
+                  <span class="method-name">mFilterBath</span>
+                  <span class="parameters">(Irvine, CA, 3)</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="mFilterBath(Irvine, CA, 3)">
+                  </a> <!-- mFilterBath(Irvine, CA, 3) -->
+                  <span class="method-name">mFilterBath</span>
+                  <span class="parameters">(Irvine, CA, 3)</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="mFilterBed(Irvine, CA, 3)">
+                  </a> <!-- mFilterBed(Irvine, CA, 3) -->
+                  <span class="method-name">mFilterBed</span>
+                  <span class="parameters">(Irvine, CA, 3)</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="mFilterBed(Irvine, CA, 3)">
+                  </a> <!-- mFilterBed(Irvine, CA, 3) -->
+                  <span class="method-name">mFilterBed</span>
+                  <span class="parameters">(Irvine, CA, 3)</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+            </div> <!-- main-panel-content rounded-window-bottom -->
+          </div> <!-- suite-XOME_Suite-class-passed -->
+          <div class="suite-XOME_Suite-class-passed">
+            <div class="main-panel-header rounded-window-top">
+              <img src="passed.png"/>
+              <span class="class-name">mobileTests.MFilterByPendingSoldForSaleStatus</span>
+            </div> <!-- main-panel-header rounded-window-top -->
+            <div class="main-panel-content rounded-window-bottom">
+              <div class="method">
+                <div class="method-content">
+                  <a name="mFilterForSale(Irvine, CA)">
+                  </a> <!-- mFilterForSale(Irvine, CA) -->
+                  <span class="method-name">mFilterForSale</span>
+                  <span class="parameters">(Irvine, CA)</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="mFilterForSale(Irvine, CA)">
+                  </a> <!-- mFilterForSale(Irvine, CA) -->
+                  <span class="method-name">mFilterForSale</span>
+                  <span class="parameters">(Irvine, CA)</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="mFilterPending(Irvine, CA)">
+                  </a> <!-- mFilterPending(Irvine, CA) -->
+                  <span class="method-name">mFilterPending</span>
+                  <span class="parameters">(Irvine, CA)</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="mFilterPending(Irvine, CA)">
+                  </a> <!-- mFilterPending(Irvine, CA) -->
+                  <span class="method-name">mFilterPending</span>
+                  <span class="parameters">(Irvine, CA)</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="mFilterSold(Irvine, CA)">
+                  </a> <!-- mFilterSold(Irvine, CA) -->
+                  <span class="method-name">mFilterSold</span>
+                  <span class="parameters">(Irvine, CA)</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="mFilterSold(Irvine, CA)">
+                  </a> <!-- mFilterSold(Irvine, CA) -->
+                  <span class="method-name">mFilterSold</span>
+                  <span class="parameters">(Irvine, CA)</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+            </div> <!-- main-panel-content rounded-window-bottom -->
+          </div> <!-- suite-XOME_Suite-class-passed -->
+          <div class="suite-XOME_Suite-class-passed">
+            <div class="main-panel-header rounded-window-top">
+              <img src="passed.png"/>
+              <span class="class-name">mobileTests.MFilterByYear</span>
+            </div> <!-- main-panel-header rounded-window-top -->
+            <div class="main-panel-content rounded-window-bottom">
+              <div class="method">
+                <div class="method-content">
+                  <a name="mFilterYear(Irvine, CA, 1995, 2015)">
+                  </a> <!-- mFilterYear(Irvine, CA, 1995, 2015) -->
+                  <span class="method-name">mFilterYear</span>
+                  <span class="parameters">(Irvine, CA, 1995, 2015)</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="mFilterYear(Irvine, CA, 1995, 2015)">
+                  </a> <!-- mFilterYear(Irvine, CA, 1995, 2015) -->
+                  <span class="method-name">mFilterYear</span>
+                  <span class="parameters">(Irvine, CA, 1995, 2015)</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+            </div> <!-- main-panel-content rounded-window-bottom -->
+          </div> <!-- suite-XOME_Suite-class-passed -->
+          <div class="suite-XOME_Suite-class-passed">
+            <div class="main-panel-header rounded-window-top">
+              <img src="passed.png"/>
+              <span class="class-name">mobileTests.MFilterBySqFt</span>
+            </div> <!-- main-panel-header rounded-window-top -->
+            <div class="main-panel-content rounded-window-bottom">
+              <div class="method">
+                <div class="method-content">
+                  <a name="mFilterSqFt(Irvine, CA, 1500, 2000)">
+                  </a> <!-- mFilterSqFt(Irvine, CA, 1500, 2000) -->
+                  <span class="method-name">mFilterSqFt</span>
+                  <span class="parameters">(Irvine, CA, 1500, 2000)</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="mFilterSqFt(Irvine, CA, 1500, 2000)">
+                  </a> <!-- mFilterSqFt(Irvine, CA, 1500, 2000) -->
+                  <span class="method-name">mFilterSqFt</span>
+                  <span class="parameters">(Irvine, CA, 1500, 2000)</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+            </div> <!-- main-panel-content rounded-window-bottom -->
+          </div> <!-- suite-XOME_Suite-class-passed -->
+          <div class="suite-XOME_Suite-class-passed">
+            <div class="main-panel-header rounded-window-top">
+              <img src="passed.png"/>
+              <span class="class-name">mobileTests.MFilterByKeyword</span>
+            </div> <!-- main-panel-header rounded-window-top -->
+            <div class="main-panel-content rounded-window-bottom">
+              <div class="method">
+                <div class="method-content">
+                  <a name="mFilterKeyword(Irvine, CA, hardwood floor)">
+                  </a> <!-- mFilterKeyword(Irvine, CA, hardwood floor) -->
+                  <span class="method-name">mFilterKeyword</span>
+                  <span class="parameters">(Irvine, CA, hardwood floor)</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="mFilterKeyword(Irvine, CA, hardwood floor)">
+                  </a> <!-- mFilterKeyword(Irvine, CA, hardwood floor) -->
+                  <span class="method-name">mFilterKeyword</span>
+                  <span class="parameters">(Irvine, CA, hardwood floor)</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+            </div> <!-- main-panel-content rounded-window-bottom -->
+          </div> <!-- suite-XOME_Suite-class-passed -->
+          <div class="suite-XOME_Suite-class-passed">
+            <div class="main-panel-header rounded-window-top">
+              <img src="passed.png"/>
+              <span class="class-name">mobileTests.MFilterByPropertyType</span>
+            </div> <!-- main-panel-header rounded-window-top -->
+            <div class="main-panel-content rounded-window-bottom">
+              <div class="method">
+                <div class="method-content">
+                  <a name="mFilterCondo(Irvine, CA)">
+                  </a> <!-- mFilterCondo(Irvine, CA) -->
+                  <span class="method-name">mFilterCondo</span>
+                  <span class="parameters">(Irvine, CA)</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="mFilterCondo(Irvine, CA)">
+                  </a> <!-- mFilterCondo(Irvine, CA) -->
+                  <span class="method-name">mFilterCondo</span>
+                  <span class="parameters">(Irvine, CA)</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="mFilterSingleFamily(Irvine, CA)">
+                  </a> <!-- mFilterSingleFamily(Irvine, CA) -->
+                  <span class="method-name">mFilterSingleFamily</span>
+                  <span class="parameters">(Irvine, CA)</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="mFilterSingleFamily(Irvine, CA)">
+                  </a> <!-- mFilterSingleFamily(Irvine, CA) -->
+                  <span class="method-name">mFilterSingleFamily</span>
+                  <span class="parameters">(Irvine, CA)</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="mFilterTownHome(Irvine, CA)">
+                  </a> <!-- mFilterTownHome(Irvine, CA) -->
+                  <span class="method-name">mFilterTownHome</span>
+                  <span class="parameters">(Irvine, CA)</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="mFilterTownHome(Irvine, CA)">
+                  </a> <!-- mFilterTownHome(Irvine, CA) -->
+                  <span class="method-name">mFilterTownHome</span>
+                  <span class="parameters">(Irvine, CA)</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+            </div> <!-- main-panel-content rounded-window-bottom -->
+          </div> <!-- suite-XOME_Suite-class-passed -->
+        </div> <!-- panel XOME_Suite -->
+        <div panel-name="test-xml-XOME_Suite" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">/Users/angee/EclipseProjects/XOMEGRID/TestNG5.xml</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <pre>
+&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;
+&lt;!DOCTYPE suite SYSTEM &quot;http://testng.org/testng-1.0.dtd&quot;&gt;
+&lt;suite thread-count=&quot;2&quot; guice-stage=&quot;DEVELOPMENT&quot; verbose=&quot;10&quot; name=&quot;XOME Suite&quot; parallel=&quot;tests&quot;&gt;
+  &lt;listeners&gt;
+    &lt;listener class-name=&quot;common.TestListener&quot;/&gt;
+  &lt;/listeners&gt;
+  &lt;test thread-count=&quot;2&quot; verbose=&quot;10&quot; name=&quot;Android GalaxyTabA2017 Tests&quot; parallel=&quot;tests&quot; group-by-instances=&quot;true&quot;&gt;
+    &lt;parameter name=&quot;deviceID&quot; value=&quot;ecbfd827b282a9dc&quot;/&gt;
+    &lt;classes&gt;
+      &lt;class name=&quot;mobileTests.MFilterByBedBath&quot;/&gt;
+      &lt;class name=&quot;mobileTests.MFilterByKeyword&quot;/&gt;
+      &lt;class name=&quot;mobileTests.MFilterByPendingSoldForSaleStatus&quot;/&gt;
+      &lt;class name=&quot;mobileTests.MFilterByPropertyType&quot;/&gt;
+      &lt;class name=&quot;mobileTests.MFilterBySqFt&quot;/&gt;
+      &lt;class name=&quot;mobileTests.MFilterByYear&quot;/&gt;
+    &lt;/classes&gt;
+  &lt;/test&gt; &lt;!-- Android GalaxyTabA2017 Tests --&gt;
+  &lt;test thread-count=&quot;2&quot; verbose=&quot;10&quot; name=&quot;Android Nexus Tests&quot; parallel=&quot;tests&quot; group-by-instances=&quot;true&quot;&gt;
+    &lt;parameter name=&quot;deviceID&quot; value=&quot;HT4CJJT00982&quot;/&gt;
+    &lt;classes&gt;
+      &lt;class name=&quot;mobileTests.MFilterByBedBath&quot;/&gt;
+      &lt;class name=&quot;mobileTests.MFilterByKeyword&quot;/&gt;
+      &lt;class name=&quot;mobileTests.MFilterByPendingSoldForSaleStatus&quot;/&gt;
+      &lt;class name=&quot;mobileTests.MFilterByPropertyType&quot;/&gt;
+      &lt;class name=&quot;mobileTests.MFilterBySqFt&quot;/&gt;
+      &lt;class name=&quot;mobileTests.MFilterByYear&quot;/&gt;
+    &lt;/classes&gt;
+  &lt;/test&gt; &lt;!-- Android Nexus Tests --&gt;
+&lt;/suite&gt; &lt;!-- XOME Suite --&gt;
+            </pre>
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="testlist-XOME_Suite" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">Tests for XOME Suite</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <ul>
+              <li>
+                <span class="test-name">Android GalaxyTabA2017 Tests (6 classes)</span>
+              </li>
+              <li>
+                <span class="test-name">Android Nexus Tests (6 classes)</span>
+              </li>
+            </ul>
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="group-XOME_Suite" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">Groups for XOME Suite</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <div class="test-group">
+              <span class="test-group-name">regression</span>
+              <br/>
+              <div class="method-in-group">
+                <span class="method-in-group-name">mFilterBath</span>
+                <br/>
+              </div> <!-- method-in-group -->
+              <div class="method-in-group">
+                <span class="method-in-group-name">mFilterBed</span>
+                <br/>
+              </div> <!-- method-in-group -->
+              <div class="method-in-group">
+                <span class="method-in-group-name">mFilterCondo</span>
+                <br/>
+              </div> <!-- method-in-group -->
+              <div class="method-in-group">
+                <span class="method-in-group-name">mFilterForSale</span>
+                <br/>
+              </div> <!-- method-in-group -->
+              <div class="method-in-group">
+                <span class="method-in-group-name">mFilterKeyword</span>
+                <br/>
+              </div> <!-- method-in-group -->
+              <div class="method-in-group">
+                <span class="method-in-group-name">mFilterPending</span>
+                <br/>
+              </div> <!-- method-in-group -->
+              <div class="method-in-group">
+                <span class="method-in-group-name">mFilterSingleFamily</span>
+                <br/>
+              </div> <!-- method-in-group -->
+              <div class="method-in-group">
+                <span class="method-in-group-name">mFilterSold</span>
+                <br/>
+              </div> <!-- method-in-group -->
+              <div class="method-in-group">
+                <span class="method-in-group-name">mFilterSqFt</span>
+                <br/>
+              </div> <!-- method-in-group -->
+              <div class="method-in-group">
+                <span class="method-in-group-name">mFilterTownHome</span>
+                <br/>
+              </div> <!-- method-in-group -->
+              <div class="method-in-group">
+                <span class="method-in-group-name">mFilterYear</span>
+                <br/>
+              </div> <!-- method-in-group -->
+            </div> <!-- test-group -->
+            <div class="test-group">
+              <span class="test-group-name">smoke</span>
+              <br/>
+              <div class="method-in-group">
+                <span class="method-in-group-name">mFilterBath</span>
+                <br/>
+              </div> <!-- method-in-group -->
+              <div class="method-in-group">
+                <span class="method-in-group-name">mFilterBed</span>
+                <br/>
+              </div> <!-- method-in-group -->
+              <div class="method-in-group">
+                <span class="method-in-group-name">mFilterCondo</span>
+                <br/>
+              </div> <!-- method-in-group -->
+              <div class="method-in-group">
+                <span class="method-in-group-name">mFilterForSale</span>
+                <br/>
+              </div> <!-- method-in-group -->
+              <div class="method-in-group">
+                <span class="method-in-group-name">mFilterKeyword</span>
+                <br/>
+              </div> <!-- method-in-group -->
+              <div class="method-in-group">
+                <span class="method-in-group-name">mFilterPending</span>
+                <br/>
+              </div> <!-- method-in-group -->
+              <div class="method-in-group">
+                <span class="method-in-group-name">mFilterSingleFamily</span>
+                <br/>
+              </div> <!-- method-in-group -->
+              <div class="method-in-group">
+                <span class="method-in-group-name">mFilterSold</span>
+                <br/>
+              </div> <!-- method-in-group -->
+              <div class="method-in-group">
+                <span class="method-in-group-name">mFilterSqFt</span>
+                <br/>
+              </div> <!-- method-in-group -->
+              <div class="method-in-group">
+                <span class="method-in-group-name">mFilterTownHome</span>
+                <br/>
+              </div> <!-- method-in-group -->
+              <div class="method-in-group">
+                <span class="method-in-group-name">mFilterYear</span>
+                <br/>
+              </div> <!-- method-in-group -->
+            </div> <!-- test-group -->
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="times-XOME_Suite" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">Times for XOME Suite</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <div class="times-div">
+              <script type="text/javascript">
+suiteTableInitFunctions.push('tableData_XOME_Suite');
+function tableData_XOME_Suite() {
+var data = new google.visualization.DataTable();
+data.addColumn('number', 'Number');
+data.addColumn('string', 'Method');
+data.addColumn('string', 'Class');
+data.addColumn('number', 'Time (ms)');
+data.addRows(22);
+data.setCell(0, 0, 0)
+data.setCell(0, 1, 'mFilterYear')
+data.setCell(0, 2, 'mobileTests.MFilterByYear')
+data.setCell(0, 3, 96101);
+data.setCell(1, 0, 1)
+data.setCell(1, 1, 'mFilterYear')
+data.setCell(1, 2, 'mobileTests.MFilterByYear')
+data.setCell(1, 3, 85953);
+data.setCell(2, 0, 2)
+data.setCell(2, 1, 'mFilterCondo')
+data.setCell(2, 2, 'mobileTests.MFilterByPropertyType')
+data.setCell(2, 3, 82196);
+data.setCell(3, 0, 3)
+data.setCell(3, 1, 'mFilterTownHome')
+data.setCell(3, 2, 'mobileTests.MFilterByPropertyType')
+data.setCell(3, 3, 81562);
+data.setCell(4, 0, 4)
+data.setCell(4, 1, 'mFilterSingleFamily')
+data.setCell(4, 2, 'mobileTests.MFilterByPropertyType')
+data.setCell(4, 3, 79538);
+data.setCell(5, 0, 5)
+data.setCell(5, 1, 'mFilterTownHome')
+data.setCell(5, 2, 'mobileTests.MFilterByPropertyType')
+data.setCell(5, 3, 74088);
+data.setCell(6, 0, 6)
+data.setCell(6, 1, 'mFilterCondo')
+data.setCell(6, 2, 'mobileTests.MFilterByPropertyType')
+data.setCell(6, 3, 71770);
+data.setCell(7, 0, 7)
+data.setCell(7, 1, 'mFilterSingleFamily')
+data.setCell(7, 2, 'mobileTests.MFilterByPropertyType')
+data.setCell(7, 3, 70732);
+data.setCell(8, 0, 8)
+data.setCell(8, 1, 'mFilterKeyword')
+data.setCell(8, 2, 'mobileTests.MFilterByKeyword')
+data.setCell(8, 3, 61375);
+data.setCell(9, 0, 9)
+data.setCell(9, 1, 'mFilterKeyword')
+data.setCell(9, 2, 'mobileTests.MFilterByKeyword')
+data.setCell(9, 3, 60017);
+data.setCell(10, 0, 10)
+data.setCell(10, 1, 'mFilterSold')
+data.setCell(10, 2, 'mobileTests.MFilterByPendingSoldForSaleStatus')
+data.setCell(10, 3, 43936);
+data.setCell(11, 0, 11)
+data.setCell(11, 1, 'mFilterForSale')
+data.setCell(11, 2, 'mobileTests.MFilterByPendingSoldForSaleStatus')
+data.setCell(11, 3, 43782);
+data.setCell(12, 0, 12)
+data.setCell(12, 1, 'mFilterPending')
+data.setCell(12, 2, 'mobileTests.MFilterByPendingSoldForSaleStatus')
+data.setCell(12, 3, 43630);
+data.setCell(13, 0, 13)
+data.setCell(13, 1, 'mFilterForSale')
+data.setCell(13, 2, 'mobileTests.MFilterByPendingSoldForSaleStatus')
+data.setCell(13, 3, 40815);
+data.setCell(14, 0, 14)
+data.setCell(14, 1, 'mFilterSqFt')
+data.setCell(14, 2, 'mobileTests.MFilterBySqFt')
+data.setCell(14, 3, 40648);
+data.setCell(15, 0, 15)
+data.setCell(15, 1, 'mFilterSqFt')
+data.setCell(15, 2, 'mobileTests.MFilterBySqFt')
+data.setCell(15, 3, 39328);
+data.setCell(16, 0, 16)
+data.setCell(16, 1, 'mFilterPending')
+data.setCell(16, 2, 'mobileTests.MFilterByPendingSoldForSaleStatus')
+data.setCell(16, 3, 39316);
+data.setCell(17, 0, 17)
+data.setCell(17, 1, 'mFilterSold')
+data.setCell(17, 2, 'mobileTests.MFilterByPendingSoldForSaleStatus')
+data.setCell(17, 3, 39100);
+data.setCell(18, 0, 18)
+data.setCell(18, 1, 'mFilterBath')
+data.setCell(18, 2, 'mobileTests.MFilterByBedBath')
+data.setCell(18, 3, 32361);
+data.setCell(19, 0, 19)
+data.setCell(19, 1, 'mFilterBed')
+data.setCell(19, 2, 'mobileTests.MFilterByBedBath')
+data.setCell(19, 3, 32357);
+data.setCell(20, 0, 20)
+data.setCell(20, 1, 'mFilterBed')
+data.setCell(20, 2, 'mobileTests.MFilterByBedBath')
+data.setCell(20, 3, 32020);
+data.setCell(21, 0, 21)
+data.setCell(21, 1, 'mFilterBath')
+data.setCell(21, 2, 'mobileTests.MFilterByBedBath')
+data.setCell(21, 3, 29195);
+window.suiteTableData['XOME_Suite']= { tableData: data, tableDiv: 'times-div-XOME_Suite'}
+return data;
+}
+              </script>
+              <span class="suite-total-time">Total running time: 20 minutes</span>
+              <div id="times-div-XOME_Suite">
+              </div> <!-- times-div-XOME_Suite -->
+            </div> <!-- times-div -->
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="reporter-XOME_Suite" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">Reporter output for XOME Suite</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="ignored-methods-XOME_Suite" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">0 ignored methods</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="chronological-XOME_Suite" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">Methods in chronological order</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <div class="chronological-class">
+              <div class="chronological-class-name">mobileTests.MFilterByBedBath</div> <!-- chronological-class-name -->
+              <div class="configuration-method before">
+                <span class="method-name">setDriver(, , HT4CJJT00982)</span>
+                <span class="method-start">0 ms</span>
+              </div> <!-- configuration-method before -->
+              <div class="configuration-method before">
+                <span class="method-name">setDriver(, , ecbfd827b282a9dc)</span>
+                <span class="method-start">0 ms</span>
+              </div> <!-- configuration-method before -->
+              <div class="test-method">
+                <span class="method-name">mFilterBath(Irvine, CA, 3)</span>
+                <span class="method-start">17088 ms</span>
+              </div> <!-- test-method -->
+              <div class="test-method">
+                <span class="method-name">mFilterBath(Irvine, CA, 3)</span>
+                <span class="method-start">18359 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-method after">
+                <span class="method-name">OnFailure([TestResult name=mFilterBath status=SUCCESS method=MFilterByBedBath.mFilterBath(java.lang.String, ja...)</span>
+                <span class="method-start">47555 ms</span>
+              </div> <!-- configuration-method after -->
+              <div class="configuration-method after">
+                <span class="method-name">tearDown</span>
+                <span class="method-start">47555 ms</span>
+              </div> <!-- configuration-method after -->
+              <div class="configuration-method before">
+                <span class="method-name">setDriver(, , HT4CJJT00982)</span>
+                <span class="method-start">48489 ms</span>
+              </div> <!-- configuration-method before -->
+              <div class="configuration-method after">
+                <span class="method-name">OnFailure([TestResult name=mFilterBath status=SUCCESS method=MFilterByBedBath.mFilterBath(java.lang.String, ja...)</span>
+                <span class="method-start">49451 ms</span>
+              </div> <!-- configuration-method after -->
+              <div class="configuration-method after">
+                <span class="method-name">tearDown</span>
+                <span class="method-start">49451 ms</span>
+              </div> <!-- configuration-method after -->
+              <div class="configuration-method before">
+                <span class="method-name">setDriver(, , ecbfd827b282a9dc)</span>
+                <span class="method-start">49741 ms</span>
+              </div> <!-- configuration-method before -->
+              <div class="test-method">
+                <span class="method-name">mFilterBed(Irvine, CA, 3)</span>
+                <span class="method-start">61499 ms</span>
+              </div> <!-- test-method -->
+              <div class="test-method">
+                <span class="method-name">mFilterBed(Irvine, CA, 3)</span>
+                <span class="method-start">70218 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-method after">
+                <span class="method-name">OnFailure([TestResult name=mFilterBed status=SUCCESS method=MFilterByBedBath.mFilterBed(java.lang.String, java...)</span>
+                <span class="method-start">93520 ms</span>
+              </div> <!-- configuration-method after -->
+              <div class="configuration-method after">
+                <span class="method-name">tearDown</span>
+                <span class="method-start">93520 ms</span>
+              </div> <!-- configuration-method after -->
+            </div> <!-- chronological-class -->
+            <div class="chronological-class">
+              <div class="chronological-class-name">mobileTests.MFilterByKeyword</div> <!-- chronological-class-name -->
+              <div class="configuration-method before">
+                <span class="method-name">setDriver(, , HT4CJJT00982)</span>
+                <span class="method-start">94317 ms</span>
+              </div> <!-- configuration-method before -->
+            </div> <!-- chronological-class -->
+            <div class="chronological-class">
+              <div class="chronological-class-name">mobileTests.MFilterByBedBath</div> <!-- chronological-class-name -->
+              <div class="configuration-method after">
+                <span class="method-name">OnFailure([TestResult name=mFilterBed status=SUCCESS method=MFilterByBedBath.mFilterBed(java.lang.String, java...)</span>
+                <span class="method-start">102575 ms</span>
+              </div> <!-- configuration-method after -->
+              <div class="configuration-method after">
+                <span class="method-name">tearDown</span>
+                <span class="method-start">102576 ms</span>
+              </div> <!-- configuration-method after -->
+            </div> <!-- chronological-class -->
+            <div class="chronological-class">
+              <div class="chronological-class-name">mobileTests.MFilterByKeyword</div> <!-- chronological-class-name -->
+              <div class="configuration-method before">
+                <span class="method-name">setDriver(, , ecbfd827b282a9dc)</span>
+                <span class="method-start">102827 ms</span>
+              </div> <!-- configuration-method before -->
+              <div class="test-method">
+                <span class="method-name">mFilterKeyword(Irvine, CA, hardwood floor)</span>
+                <span class="method-start">107466 ms</span>
+              </div> <!-- test-method -->
+              <div class="test-method">
+                <span class="method-name">mFilterKeyword(Irvine, CA, hardwood floor)</span>
+                <span class="method-start">119524 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-method after">
+                <span class="method-name">OnFailure([TestResult name=mFilterKeyword status=SUCCESS method=MFilterByKeyword.mFilterKeyword(java.lang.Stri...)</span>
+                <span class="method-start">167484 ms</span>
+              </div> <!-- configuration-method after -->
+              <div class="configuration-method after">
+                <span class="method-name">tearDown</span>
+                <span class="method-start">167485 ms</span>
+              </div> <!-- configuration-method after -->
+            </div> <!-- chronological-class -->
+            <div class="chronological-class">
+              <div class="chronological-class-name">mobileTests.MFilterByPendingSoldForSaleStatus</div> <!-- chronological-class-name -->
+              <div class="configuration-method before">
+                <span class="method-name">setDriver(, , HT4CJJT00982)</span>
+                <span class="method-start">168611 ms</span>
+              </div> <!-- configuration-method before -->
+            </div> <!-- chronological-class -->
+            <div class="chronological-class">
+              <div class="chronological-class-name">mobileTests.MFilterByKeyword</div> <!-- chronological-class-name -->
+              <div class="configuration-method after">
+                <span class="method-name">OnFailure([TestResult name=mFilterKeyword status=SUCCESS method=MFilterByKeyword.mFilterKeyword(java.lang.Stri...)</span>
+                <span class="method-start">180900 ms</span>
+              </div> <!-- configuration-method after -->
+              <div class="configuration-method after">
+                <span class="method-name">tearDown</span>
+                <span class="method-start">180901 ms</span>
+              </div> <!-- configuration-method after -->
+            </div> <!-- chronological-class -->
+            <div class="chronological-class">
+              <div class="chronological-class-name">mobileTests.MFilterByPendingSoldForSaleStatus</div> <!-- chronological-class-name -->
+              <div class="configuration-method before">
+                <span class="method-name">setDriver(, , ecbfd827b282a9dc)</span>
+                <span class="method-start">181190 ms</span>
+              </div> <!-- configuration-method before -->
+              <div class="test-method">
+                <span class="method-name">mFilterForSale(Irvine, CA)</span>
+                <span class="method-start">181646 ms</span>
+              </div> <!-- test-method -->
+              <div class="test-method">
+                <span class="method-name">mFilterForSale(Irvine, CA)</span>
+                <span class="method-start">197911 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-method after">
+                <span class="method-name">OnFailure([TestResult name=mFilterForSale status=SUCCESS method=MFilterByPendingSoldForSaleStatus.mFilterForSa...)</span>
+                <span class="method-start">222462 ms</span>
+              </div> <!-- configuration-method after -->
+              <div class="configuration-method after">
+                <span class="method-name">tearDown</span>
+                <span class="method-start">222463 ms</span>
+              </div> <!-- configuration-method after -->
+              <div class="configuration-method before">
+                <span class="method-name">setDriver(, , HT4CJJT00982)</span>
+                <span class="method-start">223372 ms</span>
+              </div> <!-- configuration-method before -->
+              <div class="test-method">
+                <span class="method-name">mFilterPending(Irvine, CA)</span>
+                <span class="method-start">236443 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-method after">
+                <span class="method-name">OnFailure([TestResult name=mFilterForSale status=SUCCESS method=MFilterByPendingSoldForSaleStatus.mFilterForSa...)</span>
+                <span class="method-start">241695 ms</span>
+              </div> <!-- configuration-method after -->
+              <div class="configuration-method after">
+                <span class="method-name">tearDown</span>
+                <span class="method-start">241695 ms</span>
+              </div> <!-- configuration-method after -->
+              <div class="configuration-method before">
+                <span class="method-name">setDriver(, , ecbfd827b282a9dc)</span>
+                <span class="method-start">241962 ms</span>
+              </div> <!-- configuration-method before -->
+              <div class="test-method">
+                <span class="method-name">mFilterPending(Irvine, CA)</span>
+                <span class="method-start">258653 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-method after">
+                <span class="method-name">OnFailure([TestResult name=mFilterPending status=SUCCESS method=MFilterByPendingSoldForSaleStatus.mFilterPendi...)</span>
+                <span class="method-start">275761 ms</span>
+              </div> <!-- configuration-method after -->
+              <div class="configuration-method after">
+                <span class="method-name">tearDown</span>
+                <span class="method-start">275761 ms</span>
+              </div> <!-- configuration-method after -->
+              <div class="configuration-method before">
+                <span class="method-name">setDriver(, , HT4CJJT00982)</span>
+                <span class="method-start">276738 ms</span>
+              </div> <!-- configuration-method before -->
+              <div class="test-method">
+                <span class="method-name">mFilterSold(Irvine, CA)</span>
+                <span class="method-start">289640 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-method after">
+                <span class="method-name">OnFailure([TestResult name=mFilterPending status=SUCCESS method=MFilterByPendingSoldForSaleStatus.mFilterPendi...)</span>
+                <span class="method-start">302284 ms</span>
+              </div> <!-- configuration-method after -->
+              <div class="configuration-method after">
+                <span class="method-name">tearDown</span>
+                <span class="method-start">302284 ms</span>
+              </div> <!-- configuration-method after -->
+              <div class="configuration-method before">
+                <span class="method-name">setDriver(, , ecbfd827b282a9dc)</span>
+                <span class="method-start">302550 ms</span>
+              </div> <!-- configuration-method before -->
+              <div class="test-method">
+                <span class="method-name">mFilterSold(Irvine, CA)</span>
+                <span class="method-start">319376 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-method after">
+                <span class="method-name">OnFailure([TestResult name=mFilterSold status=SUCCESS method=MFilterByPendingSoldForSaleStatus.mFilterSold(jav...)</span>
+                <span class="method-start">328741 ms</span>
+              </div> <!-- configuration-method after -->
+              <div class="configuration-method after">
+                <span class="method-name">tearDown</span>
+                <span class="method-start">328741 ms</span>
+              </div> <!-- configuration-method after -->
+            </div> <!-- chronological-class -->
+            <div class="chronological-class">
+              <div class="chronological-class-name">mobileTests.MFilterByPropertyType</div> <!-- chronological-class-name -->
+              <div class="configuration-method before">
+                <span class="method-name">setDriver(, , HT4CJJT00982)</span>
+                <span class="method-start">329762 ms</span>
+              </div> <!-- configuration-method before -->
+              <div class="test-method">
+                <span class="method-name">mFilterCondo(Irvine, CA)</span>
+                <span class="method-start">342709 ms</span>
+              </div> <!-- test-method -->
+            </div> <!-- chronological-class -->
+            <div class="chronological-class">
+              <div class="chronological-class-name">mobileTests.MFilterByPendingSoldForSaleStatus</div> <!-- chronological-class-name -->
+              <div class="configuration-method after">
+                <span class="method-name">OnFailure([TestResult name=mFilterSold status=SUCCESS method=MFilterByPendingSoldForSaleStatus.mFilterSold(jav...)</span>
+                <span class="method-start">363314 ms</span>
+              </div> <!-- configuration-method after -->
+              <div class="configuration-method after">
+                <span class="method-name">tearDown</span>
+                <span class="method-start">363314 ms</span>
+              </div> <!-- configuration-method after -->
+            </div> <!-- chronological-class -->
+            <div class="chronological-class">
+              <div class="chronological-class-name">mobileTests.MFilterByPropertyType</div> <!-- chronological-class-name -->
+              <div class="configuration-method before">
+                <span class="method-name">setDriver(, , ecbfd827b282a9dc)</span>
+                <span class="method-start">363555 ms</span>
+              </div> <!-- configuration-method before -->
+              <div class="test-method">
+                <span class="method-name">mFilterCondo(Irvine, CA)</span>
+                <span class="method-start">380178 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-method after">
+                <span class="method-name">OnFailure([TestResult name=mFilterCondo status=SUCCESS method=MFilterByPropertyType.mFilterCondo(java.lang.Str...)</span>
+                <span class="method-start">414480 ms</span>
+              </div> <!-- configuration-method after -->
+              <div class="configuration-method after">
+                <span class="method-name">tearDown</span>
+                <span class="method-start">414480 ms</span>
+              </div> <!-- configuration-method after -->
+              <div class="configuration-method before">
+                <span class="method-name">setDriver(, , HT4CJJT00982)</span>
+                <span class="method-start">415453 ms</span>
+              </div> <!-- configuration-method before -->
+              <div class="test-method">
+                <span class="method-name">mFilterSingleFamily(Irvine, CA)</span>
+                <span class="method-start">431749 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-method after">
+                <span class="method-name">OnFailure([TestResult name=mFilterCondo status=SUCCESS method=MFilterByPropertyType.mFilterCondo(java.lang.Str...)</span>
+                <span class="method-start">462375 ms</span>
+              </div> <!-- configuration-method after -->
+              <div class="configuration-method after">
+                <span class="method-name">tearDown</span>
+                <span class="method-start">462375 ms</span>
+              </div> <!-- configuration-method after -->
+              <div class="configuration-method before">
+                <span class="method-name">setDriver(, , ecbfd827b282a9dc)</span>
+                <span class="method-start">462634 ms</span>
+              </div> <!-- configuration-method before -->
+              <div class="test-method">
+                <span class="method-name">mFilterSingleFamily(Irvine, CA)</span>
+                <span class="method-start">482373 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-method after">
+                <span class="method-name">OnFailure([TestResult name=mFilterSingleFamily status=SUCCESS method=MFilterByPropertyType.mFilterSingleFamily...)</span>
+                <span class="method-start">502482 ms</span>
+              </div> <!-- configuration-method after -->
+              <div class="configuration-method after">
+                <span class="method-name">tearDown</span>
+                <span class="method-start">502482 ms</span>
+              </div> <!-- configuration-method after -->
+              <div class="configuration-method before">
+                <span class="method-name">setDriver(, , HT4CJJT00982)</span>
+                <span class="method-start">503317 ms</span>
+              </div> <!-- configuration-method before -->
+              <div class="test-method">
+                <span class="method-name">mFilterTownHome(Irvine, CA)</span>
+                <span class="method-start">516432 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-method after">
+                <span class="method-name">OnFailure([TestResult name=mFilterSingleFamily status=SUCCESS method=MFilterByPropertyType.mFilterSingleFamily...)</span>
+                <span class="method-start">561913 ms</span>
+              </div> <!-- configuration-method after -->
+              <div class="configuration-method after">
+                <span class="method-name">tearDown</span>
+                <span class="method-start">561913 ms</span>
+              </div> <!-- configuration-method after -->
+              <div class="configuration-method before">
+                <span class="method-name">setDriver(, , ecbfd827b282a9dc)</span>
+                <span class="method-start">562147 ms</span>
+              </div> <!-- configuration-method before -->
+              <div class="test-method">
+                <span class="method-name">mFilterTownHome(Irvine, CA)</span>
+                <span class="method-start">581013 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-method after">
+                <span class="method-name">OnFailure([TestResult name=mFilterTownHome status=SUCCESS method=MFilterByPropertyType.mFilterTownHome(java.la...)</span>
+                <span class="method-start">590521 ms</span>
+              </div> <!-- configuration-method after -->
+              <div class="configuration-method after">
+                <span class="method-name">tearDown</span>
+                <span class="method-start">590521 ms</span>
+              </div> <!-- configuration-method after -->
+            </div> <!-- chronological-class -->
+            <div class="chronological-class">
+              <div class="chronological-class-name">mobileTests.MFilterBySqFt</div> <!-- chronological-class-name -->
+              <div class="configuration-method before">
+                <span class="method-name">setDriver(, , HT4CJJT00982)</span>
+                <span class="method-start">591470 ms</span>
+              </div> <!-- configuration-method before -->
+              <div class="test-method">
+                <span class="method-name">mFilterSqFt(Irvine, CA, 1500, 2000)</span>
+                <span class="method-start">605469 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-method after">
+                <span class="method-name">OnFailure([TestResult name=mFilterSqFt status=SUCCESS method=MFilterBySqFt.mFilterSqFt(java.lang.String, java....)</span>
+                <span class="method-start">644798 ms</span>
+              </div> <!-- configuration-method after -->
+              <div class="configuration-method after">
+                <span class="method-name">tearDown</span>
+                <span class="method-start">644798 ms</span>
+              </div> <!-- configuration-method after -->
+            </div> <!-- chronological-class -->
+            <div class="chronological-class">
+              <div class="chronological-class-name">mobileTests.MFilterByYear</div> <!-- chronological-class-name -->
+              <div class="configuration-method before">
+                <span class="method-name">setDriver(, , HT4CJJT00982)</span>
+                <span class="method-start">645485 ms</span>
+              </div> <!-- configuration-method before -->
+              <div class="test-method">
+                <span class="method-name">mFilterYear(Irvine, CA, 1995, 2015)</span>
+                <span class="method-start">658512 ms</span>
+              </div> <!-- test-method -->
+            </div> <!-- chronological-class -->
+            <div class="chronological-class">
+              <div class="chronological-class-name">mobileTests.MFilterByPropertyType</div> <!-- chronological-class-name -->
+              <div class="configuration-method after">
+                <span class="method-name">OnFailure([TestResult name=mFilterTownHome status=SUCCESS method=MFilterByPropertyType.mFilterTownHome(java.la...)</span>
+                <span class="method-start">662576 ms</span>
+              </div> <!-- configuration-method after -->
+              <div class="configuration-method after">
+                <span class="method-name">tearDown</span>
+                <span class="method-start">662576 ms</span>
+              </div> <!-- configuration-method after -->
+            </div> <!-- chronological-class -->
+            <div class="chronological-class">
+              <div class="chronological-class-name">mobileTests.MFilterBySqFt</div> <!-- chronological-class-name -->
+              <div class="configuration-method before">
+                <span class="method-name">setDriver(, , ecbfd827b282a9dc)</span>
+                <span class="method-start">662847 ms</span>
+              </div> <!-- configuration-method before -->
+              <div class="test-method">
+                <span class="method-name">mFilterSqFt(Irvine, CA, 1500, 2000)</span>
+                <span class="method-start">679490 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-method after">
+                <span class="method-name">OnFailure([TestResult name=mFilterSqFt status=SUCCESS method=MFilterBySqFt.mFilterSqFt(java.lang.String, java....)</span>
+                <span class="method-start">720138 ms</span>
+              </div> <!-- configuration-method after -->
+              <div class="configuration-method after">
+                <span class="method-name">tearDown</span>
+                <span class="method-start">720139 ms</span>
+              </div> <!-- configuration-method after -->
+            </div> <!-- chronological-class -->
+            <div class="chronological-class">
+              <div class="chronological-class-name">mobileTests.MFilterByYear</div> <!-- chronological-class-name -->
+              <div class="configuration-method before">
+                <span class="method-name">setDriver(, , ecbfd827b282a9dc)</span>
+                <span class="method-start">720403 ms</span>
+              </div> <!-- configuration-method before -->
+              <div class="test-method">
+                <span class="method-name">mFilterYear(Irvine, CA, 1995, 2015)</span>
+                <span class="method-start">736986 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-method after">
+                <span class="method-name">OnFailure([TestResult name=mFilterYear status=SUCCESS method=MFilterByYear.mFilterYear(java.lang.String, java....)</span>
+                <span class="method-start">744466 ms</span>
+              </div> <!-- configuration-method after -->
+              <div class="configuration-method after">
+                <span class="method-name">tearDown</span>
+                <span class="method-start">744467 ms</span>
+              </div> <!-- configuration-method after -->
+              <div class="configuration-method after">
+                <span class="method-name">OnFailure([TestResult name=mFilterYear status=SUCCESS method=MFilterByYear.mFilterYear(java.lang.String, java....)</span>
+                <span class="method-start">833087 ms</span>
+              </div> <!-- configuration-method after -->
+              <div class="configuration-method after">
+                <span class="method-name">tearDown</span>
+                <span class="method-start">833088 ms</span>
+              </div> <!-- configuration-method after -->
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+      </div> <!-- main-panel-root -->
+    </div> <!-- wrapper -->
+  </body>
+</html>
