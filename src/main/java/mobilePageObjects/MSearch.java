@@ -48,6 +48,7 @@ public class MSearch {
 			WebDriverWait wait = new WebDriverWait (driver, 60);
 			WebElement searchfieldelement = wait.until(ExpectedConditions.elementToBeClickable(searchfield));
 			searchfieldelement.click();
+			Thread.sleep(5000);
 			WebElement searchfield2element = wait.until(ExpectedConditions.elementToBeClickable(searchfield2));
 			searchfield2element.click();
 			WebElement searchfield2textelement = wait.until(ExpectedConditions.presenceOfElementLocated(searchfield2text));

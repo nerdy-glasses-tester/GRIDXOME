@@ -9,6 +9,7 @@ import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
 import io.appium.java_client.AppiumDriver;
 import io.appium.java_client.MobileBy;
+import io.appium.java_client.MobileElement;
 
 public class MSortResults_Page {
 	//****************************************//
@@ -119,7 +120,7 @@ public class MSortResults_Page {
 		WebElement sortoptionelement = wait.until(ExpectedConditions.elementToBeClickable(sortoption));
 		String sorttext = sortoptionelement.getText();
 		
-		List <WebElement> propertypricelist = (List<WebElement>) driver.findElements(propertyprice);
+		List <MobileElement> propertypricelist = (List<MobileElement>) driver.findElements(propertyprice);
 		WebElement prop1priceelement = propertypricelist.get(0);
 		String prop1pricestring = prop1priceelement.getText();
 		prop1pricestring = prop1pricestring.replaceAll("\\$", "");
@@ -159,7 +160,7 @@ public class MSortResults_Page {
 		WebElement sortoptionelement = wait.until(ExpectedConditions.elementToBeClickable(sortoption));
 		String sorttext = sortoptionelement.getText();
 		
-		List <WebElement> propertypricelist = (List<WebElement>) driver.findElements(propertyprice);
+		List <MobileElement> propertypricelist = (List<MobileElement>) driver.findElements(propertyprice);
 		WebElement prop1priceelement = propertypricelist.get(0);
 		String prop1pricestring = prop1priceelement.getText();
 		prop1pricestring = prop1pricestring.replaceAll("\\$", "");
@@ -199,7 +200,7 @@ public class MSortResults_Page {
 		WebElement sortoptionelement = wait.until(ExpectedConditions.elementToBeClickable(sortoption));
 		String sorttext = sortoptionelement.getText();
 		
-		List <WebElement> propertysquarefeetlist = (List<WebElement>) driver.findElements(propertysquarefeet);
+		List <MobileElement> propertysquarefeetlist = (List<MobileElement>) driver.findElements(propertysquarefeet);
 		WebElement prop1squarefeetelement = propertysquarefeetlist.get(0);
 		String prop1squarefeetstring = prop1squarefeetelement.getText();
 		int prop1squarefeet = Integer.parseInt(prop1squarefeetstring);
@@ -232,13 +233,13 @@ public class MSortResults_Page {
 		WebElement sortoptionelement = wait.until(ExpectedConditions.elementToBeClickable(sortoption));
 		String sorttext = sortoptionelement.getText();
 		
-		List <WebElement> property1newtaglist = (List<WebElement>) driver.findElements(property1newtag);
-		List <WebElement> property2newtaglist = (List<WebElement>) driver.findElements(property2newtag);
-		List <WebElement> property3newtaglist = (List<WebElement>) driver.findElements(property3newtag);
+		List <MobileElement> property1newtaglist = (List<MobileElement>) driver.findElements(property1newtag);
+		List <MobileElement> property2newtaglist = (List<MobileElement>) driver.findElements(property2newtag);
+		List <MobileElement> property3newtaglist = (List<MobileElement>) driver.findElements(property3newtag);
 
-		List <WebElement> property1openhousetaglist = (List<WebElement>) driver.findElements(property1openhousetag);
-		List <WebElement> property2openhousetaglist = (List<WebElement>) driver.findElements(property2openhousetag);
-		List <WebElement> property3openhousetaglist = (List<WebElement>) driver.findElements(property3openhousetag);
+		List <MobileElement> property1openhousetaglist = (List<MobileElement>) driver.findElements(property1openhousetag);
+		List <MobileElement> property2openhousetaglist = (List<MobileElement>) driver.findElements(property2openhousetag);
+		List <MobileElement> property3openhousetaglist = (List<MobileElement>) driver.findElements(property3openhousetag);
 		
 		String prop1newtag = "";
 		String prop2newtag = "";
@@ -339,7 +340,7 @@ public class MSortResults_Page {
 		MSortResults_Page.sortByHightoLowPrice(driver);
 		Thread.sleep(4000);
 				
-		List <WebElement> highpricepropertybedlist = (List<WebElement>) driver.findElements(propertybed);
+		List <MobileElement> highpricepropertybedlist = (List<MobileElement>) driver.findElements(propertybed);
 		WebElement highpriceprop1bedelement = highpricepropertybedlist.get(0);
 		String highpriceprop1bedstring = highpriceprop1bedelement.getText();
 		int highpriceprop1bed = Integer.parseInt(highpriceprop1bedstring);
@@ -355,7 +356,7 @@ public class MSortResults_Page {
 		sortoptionelement = wait.until(ExpectedConditions.elementToBeClickable(sortoption));
 		String sorttext = sortoptionelement.getText();
 		
-		List <WebElement> propertybedlist = (List<WebElement>) driver.findElements(propertybed);
+		List <MobileElement> propertybedlist = (List<MobileElement>) driver.findElements(propertybed);
 		WebElement prop1bedelement = propertybedlist.get(0);
 		String prop1bedstring = prop1bedelement.getText();
 		int prop1bed = Integer.parseInt(prop1bedstring);
@@ -392,7 +393,7 @@ public class MSortResults_Page {
 		MSortResults_Page.sortByHightoLowPrice(driver);
 		Thread.sleep(4000);
 				
-		List <WebElement> highpricepropertybathlist = (List<WebElement>) driver.findElements(propertybath);
+		List <MobileElement> highpricepropertybathlist = (List<MobileElement>) driver.findElements(propertybath);
 		WebElement highpriceprop1bathelement = highpricepropertybathlist.get(0);
 		String highpriceprop1bathstring = highpriceprop1bathelement.getText();
 		int highpriceprop1bath = Integer.parseInt(highpriceprop1bathstring);
@@ -408,7 +409,7 @@ public class MSortResults_Page {
 		sortoptionelement = wait.until(ExpectedConditions.elementToBeClickable(sortoption));
 		String sorttext = sortoptionelement.getText();
 		
-		List <WebElement> propertybathlist = (List<WebElement>) driver.findElements(propertybath);
+		List <MobileElement> propertybathlist = (List<MobileElement>) driver.findElements(propertybath);
 		WebElement prop1bathelement = propertybathlist.get(0);
 		String prop1bathstring = prop1bathelement.getText();
 		int prop1bath = Integer.parseInt(prop1bathstring);

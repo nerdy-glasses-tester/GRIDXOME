@@ -299,6 +299,8 @@ public class TestBase {
 						MiscMethods.exec(firstDeviceName, "uninstall io.appium.uiautomator2.server.test");
 						MiscMethods.exec(firstDeviceName, "uninstall io.appium.settings");
 						
+						Thread.sleep(10000);
+						
 						//Remove "Unlock" and "Appium settings" apps from Android device
                         //Appium installs those apps automatically. (In my case those apps were not compatible after updating Android from version 6 to version 7.
 			            
@@ -362,6 +364,8 @@ public class TestBase {
 						MiscMethods.exec(secondDeviceName, "uninstall io.appium.uiautomator2.server");
 						MiscMethods.exec(secondDeviceName, "uninstall io.appium.uiautomator2.server.test");
 						MiscMethods.exec(secondDeviceName, "uninstall io.appium.settings");
+						
+						Thread.sleep(10000);
 						
 						//Remove "Unlock" and "Appium settings" apps from Android device
                         //Appium installs those apps automatically. (In my case those apps were not compatible after updating Android from version 6 to version 7.

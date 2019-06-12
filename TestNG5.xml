@@ -15,6 +15,8 @@
         	<class name="mobileTests.MFilterByPropertyType" />
         	<class name="mobileTests.MFilterBySqFt" />
         	<class name="mobileTests.MFilterByYear" />
+        	<class name="mobileTests.MSortResultsByBedBathPriceSqFtMostRecent" />
+        <!-- Skipped login and sign up tests because galaxy has a smaller size screen than nexus and its elements path are different. Will work on later. -->
 		</classes>
 	</parameter>
 	</test>
@@ -28,6 +30,8 @@
         	<class name="mobileTests.MFilterByPropertyType" />
         	<class name="mobileTests.MFilterBySqFt" />
         	<class name="mobileTests.MFilterByYear" />
+        	<class name="mobileTests.MSortResultsByBedBathPriceSqFtMostRecent" />
+  <!-- Skipped login and sign up tests because galaxy has a smaller size screen than nexus and its elements path are different. Will work on later. -->
 		</classes>
 	</parameter>
 	</test>
