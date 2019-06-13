@@ -29,9 +29,9 @@ public class Gmail {
 			final static Logger log = LogManager.getLogger(Gmail.class);
 			
 			static By loginemail = By.cssSelector("div.Xb9hP>input.whsOnd.zHQkBf");
-			static By nextbtn = By.cssSelector("div#identifierNext>content.CwaK9>span.RveJvd.snByac");
+			static By nextbtn = By.xpath(".//span[@class='RveJvd snByac' and contains(text(),'Next')]");
 			static By pwd = By.cssSelector("div#password>div.aCsJod.oJeWuf>div.aXBtI.Wic03c>div.Xb9hP>input.whsOnd.zHQkBf");
-			static By pwdnextbtn = By.cssSelector("div#passwordNext>content.CwaK9>span.RveJvd.snByac");
+			static By pwdnextbtn = By.xpath(".//span[@class='RveJvd snByac' and contains(text(), 'Next')]");
 			
 			static By searchemailfield = By.cssSelector("input.gb_Qe");
 			static By searchemailbutton = By.cssSelector("button.gb_0e.gb_1e>svg");
