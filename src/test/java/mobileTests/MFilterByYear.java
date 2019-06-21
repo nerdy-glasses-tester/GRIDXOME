@@ -40,7 +40,7 @@ public class MFilterByYear extends TestBase{
 	{
 		AppiumDriver<?> driver = getAppiumDriver();
 
-		//MLogin_Page.allowDeviceLocationAccess(driver);
+		MLogin_Page.allowDeviceLocationAccess(driver);
 		MSearch.searchhomes(driver, searchkeyword);
 	    MFilterResults_Page.clickFilterOption(driver);
 	    MFilterResults_Page.clickFilterByMinYear(driver, minyear);

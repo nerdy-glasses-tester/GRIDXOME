@@ -42,7 +42,7 @@ public class MFilterByBedBath extends TestBase{
 	{
 		AppiumDriver<?> driver = getAppiumDriver();
 		
-		//MLogin_Page.allowDeviceLocationAccess(driver);
+		MLogin_Page.allowDeviceLocationAccess(driver);
 		MSearch.searchhomes(driver, searchkeyword);
 	    MFilterResults_Page.clickFilterOption(driver);
 	    MFilterResults_Page.clickFilterByBed(driver, beds);
@@ -70,7 +70,7 @@ public class MFilterByBedBath extends TestBase{
 	{
 		AppiumDriver<?> driver = getAppiumDriver();
 
-		//MLogin_Page.allowDeviceLocationAccess(driver);
+		MLogin_Page.allowDeviceLocationAccess(driver);
 		MSearch.searchhomes(driver, searchkeyword);
 	    MFilterResults_Page.clickFilterOption(driver);
 	    MFilterResults_Page.clickFilterByBath(driver, baths);

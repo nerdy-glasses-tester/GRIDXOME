@@ -41,7 +41,7 @@ public class MLoginandSearch extends TestBase{
 	{
 		AppiumDriver<?> driver = getAppiumDriver();
 		
-		//MLogin_Page.allowDeviceLocationAccess(driver);
+		MLogin_Page.allowDeviceLocationAccess(driver);
 		MLogin_Page.mobileLogin(driver, login, password, searchkeyword);
 		MSearch.clickSearchtoDismissLeftMenu(driver);
 		MSearch.searchhomes(driver, searchkeyword);

@@ -42,7 +42,7 @@ public class MFilterBySqFt extends TestBase{
 		AppiumDriver<?> driver = getAppiumDriver();
 		
 		log.info("driver is "+driver);
-		//MLogin_Page.allowDeviceLocationAccess(driver);
+		MLogin_Page.allowDeviceLocationAccess(driver);
 		MSearch.searchhomes(driver, searchkeyword);
 	    MFilterResults_Page.clickFilterOption(driver);
 	    MFilterResults_Page.clickFilterByMinSqFt(driver, minsqft);

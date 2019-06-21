@@ -45,7 +45,7 @@ public class MSortResultsByBedBathPriceSqFtMostRecent extends TestBase{
 
 		AppiumDriver<?> driver = getAppiumDriver();
 		
-		//MLogin_Page.allowDeviceLocationAccess(driver);
+		MLogin_Page.allowDeviceLocationAccess(driver);
 		MSearch.searchhomes(driver, searchkeyword);
 		MFilterResults_Page.firstOpenAppFilterBySingleFamilyTownHomeCondo(driver);
 		Thread.sleep(4000);
@@ -75,7 +75,7 @@ public class MSortResultsByBedBathPriceSqFtMostRecent extends TestBase{
 
 		AppiumDriver<?> driver = getAppiumDriver();
 		
-		//MLogin_Page.allowDeviceLocationAccess(driver);
+		MLogin_Page.allowDeviceLocationAccess(driver);
 		MSearch.searchhomes(driver, searchkeyword);
 		MFilterResults_Page.firstOpenAppFilterBySingleFamilyTownHomeCondo(driver);
 		Thread.sleep(4000);
@@ -105,7 +105,7 @@ public class MSortResultsByBedBathPriceSqFtMostRecent extends TestBase{
 
 		AppiumDriver<?> driver = getAppiumDriver();
 		
-		//MLogin_Page.allowDeviceLocationAccess(driver);
+		MLogin_Page.allowDeviceLocationAccess(driver);
 		MSearch.searchhomes(driver, searchkeyword);
 		MFilterResults_Page.firstOpenAppFilterBySingleFamilyTownHomeCondo(driver);
 		Thread.sleep(4000);
@@ -136,7 +136,7 @@ public class MSortResultsByBedBathPriceSqFtMostRecent extends TestBase{
 
 		AppiumDriver<?> driver = getAppiumDriver();
 		
-		//MLogin_Page.allowDeviceLocationAccess(driver);
+		MLogin_Page.allowDeviceLocationAccess(driver);
 		MSearch.searchhomes(driver, searchkeyword);
 		MFilterResults_Page.firstOpenAppFilterBySingleFamilyTownHomeCondo(driver);
 		Thread.sleep(4000);
@@ -166,7 +166,7 @@ public class MSortResultsByBedBathPriceSqFtMostRecent extends TestBase{
 
 		AppiumDriver<?> driver = getAppiumDriver();
 		
-		//MLogin_Page.allowDeviceLocationAccess(driver);
+		MLogin_Page.allowDeviceLocationAccess(driver);
 		MSearch.searchhomes(driver, searchkeyword);
 		MFilterResults_Page.firstOpenAppFilterBySingleFamilyTownHomeCondo(driver);
 		Thread.sleep(4000);
@@ -197,7 +197,7 @@ public class MSortResultsByBedBathPriceSqFtMostRecent extends TestBase{
 
 		AppiumDriver<?> driver = getAppiumDriver();
 		
-		//MLogin_Page.allowDeviceLocationAccess(driver);
+		MLogin_Page.allowDeviceLocationAccess(driver);
 		MSearch.searchhomes(driver, searchkeyword);
 		MFilterResults_Page.firstOpenAppFilterBySingleFamilyTownHomeCondo(driver);
 		Thread.sleep(4000);

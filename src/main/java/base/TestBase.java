@@ -295,6 +295,8 @@ public class TestBase {
 
 					if (deviceID.equalsIgnoreCase(firstDeviceName) && ReadProperties.globalProp.getProperty("mobiledevice").contains("Android")&& ReadProperties.globalProp.getProperty("runonrealdevice").contains("yes"))
 					{
+						String appfile=ReadProperties.globalProp.getProperty("simulatormacandroidappfile");
+						
 						MiscMethods.exec(firstDeviceName, "uninstall io.appium.uiautomator2.server");
 						MiscMethods.exec(firstDeviceName, "uninstall io.appium.uiautomator2.server.test");
 						MiscMethods.exec(firstDeviceName, "uninstall io.appium.settings");
@@ -303,7 +305,7 @@ public class TestBase {
 						
 						//Remove "Unlock" and "Appium settings" apps from Android device
                         //Appium installs those apps automatically. (In my case those apps were not compatible after updating Android from version 6 to version 7.
-			            
+						
 						capabilities.setCapability("deviceName",firstDeviceName);
 						capabilities.setCapability("udid", firstDeviceName);
 						capabilities.setCapability(MobileCapabilityType.DEVICE_NAME, "GalaxyTabA2017");
@@ -313,10 +315,8 @@ public class TestBase {
 						capabilities.setCapability("wdaLocalPort", 8200);
 						capabilities.setCapability(MobileCapabilityType.NEW_COMMAND_TIMEOUT, 100000); 
 						//must put the apk in here and remove app package and app activit or app wont load in appium mobile grid
-						capabilities.setCapability(MobileCapabilityType.APP, "/Users/angee/EclipseProjects/XOMEGRID/src/test/resources/base.apk");
-			             capabilities.setCapability(MobileCapabilityType.NO_RESET, true);
+						capabilities.setCapability(MobileCapabilityType.APP, appfile);
 						
-						/***
 						if (ReadProperties.globalProp.getProperty("reset").contains("fullReset")) { // uninstall and install client
 				            System.out.println("Driver DO FULL-RESET");
 				            capabilities.setCapability("fullReset", true);
@@ -330,7 +330,6 @@ public class TestBase {
 				            capabilities.setCapability("fullReset", false);
 				            capabilities.setCapability("noReset", true);
 				        }
-						***/
 						
 						
 						//If the application under test is supposed to be already installed on the device (noReset=true) then at least appActivity and appPackage options are required to be set, since no package manifest is available in such case.
@@ -361,6 +360,8 @@ public class TestBase {
 					}
 					else if (deviceID.equalsIgnoreCase(secondDeviceName) && ReadProperties.globalProp.getProperty("mobiledevice").contains("Android")&& ReadProperties.globalProp.getProperty("runonrealdevice").contains("yes"))
 					{
+						String appfile=ReadProperties.globalProp.getProperty("simulatormacandroidappfile");
+						
 						MiscMethods.exec(secondDeviceName, "uninstall io.appium.uiautomator2.server");
 						MiscMethods.exec(secondDeviceName, "uninstall io.appium.uiautomator2.server.test");
 						MiscMethods.exec(secondDeviceName, "uninstall io.appium.settings");
@@ -369,7 +370,7 @@ public class TestBase {
 						
 						//Remove "Unlock" and "Appium settings" apps from Android device
                         //Appium installs those apps automatically. (In my case those apps were not compatible after updating Android from version 6 to version 7.
-
+						
 						capabilities.setCapability("deviceName",secondDeviceName);
 						capabilities.setCapability("udid", secondDeviceName);
 						capabilities.setCapability(MobileCapabilityType.DEVICE_NAME, "Nexus");
@@ -379,10 +380,8 @@ public class TestBase {
 						capabilities.setCapability("wdaLocalPort", 8201);
 						capabilities.setCapability(MobileCapabilityType.NEW_COMMAND_TIMEOUT, 100000); 
 						//must put the apk in here and remove app package and app activit or app wont load in appium mobile grid
-						capabilities.setCapability(MobileCapabilityType.APP, "/Users/angee/EclipseProjects/XOMEGRID/src/test/resources/base.apk");
-			             capabilities.setCapability(MobileCapabilityType.NO_RESET, true);
+						capabilities.setCapability(MobileCapabilityType.APP, appfile);
 			            
-			            /***
 						if (ReadProperties.globalProp.getProperty("reset").contains("fullReset")) { // uninstall and install client
 				            System.out.println("Driver DO FULL-RESET");
 				            capabilities.setCapability("fullReset", true);
@@ -396,7 +395,7 @@ public class TestBase {
 				            capabilities.setCapability("fullReset", false);
 				            capabilities.setCapability("noReset", true);
 				        }
-				        ***/
+
 			            
 						//If the application under test is supposed to be already installed on the device (noReset=true) then at least appActivity and appPackage options are required to be set, since no package manifest is available in such case.
 						//run this at start of test to cleanup

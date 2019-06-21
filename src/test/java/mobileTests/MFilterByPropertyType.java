@@ -42,7 +42,7 @@ public class MFilterByPropertyType extends TestBase{
 
 		AppiumDriver<?> driver = getAppiumDriver();
 		
-		//MLogin_Page.allowDeviceLocationAccess(driver);
+		MLogin_Page.allowDeviceLocationAccess(driver);
 		MSearch.searchhomes(driver, searchkeyword);
 	    MFilterResults_Page.clickFilterOption(driver);
 	    MFilterResults_Page.clickSingleFamily(driver);
@@ -71,7 +71,7 @@ public class MFilterByPropertyType extends TestBase{
 	{
 		AppiumDriver<?> driver = getAppiumDriver();
 
-		//MLogin_Page.allowDeviceLocationAccess(driver);
+		MLogin_Page.allowDeviceLocationAccess(driver);
 		MSearch.searchhomes(driver, searchkeyword);
 	    MFilterResults_Page.clickFilterOption(driver);
 	    MFilterResults_Page.clickTownHome(driver);
@@ -101,7 +101,7 @@ public class MFilterByPropertyType extends TestBase{
 	{
 		AppiumDriver<?> driver = getAppiumDriver();
 
-		//MLogin_Page.allowDeviceLocationAccess(driver);
+		MLogin_Page.allowDeviceLocationAccess(driver);
 		MSearch.searchhomes(driver, searchkeyword);
 	    MFilterResults_Page.clickFilterOption(driver);
 	    MFilterResults_Page.clickCondo(driver);

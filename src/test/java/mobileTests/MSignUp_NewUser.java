@@ -39,7 +39,7 @@ public class MSignUp_NewUser extends TestBase{
 	{
 		AppiumDriver<?> driver = getAppiumDriver();
 		
-		//MLogin_Page.allowDeviceLocationAccess(driver);
+		MLogin_Page.allowDeviceLocationAccess(driver);
 		String diditsignup = MLogin_Page.mobileSignUp(driver, firstname, lastname, email, password);
 
 		try{

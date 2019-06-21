@@ -40,7 +40,7 @@ public class MFilterByKeyword  extends TestBase{
 	{
 		AppiumDriver<?> driver = getAppiumDriver();
 		
-		//MLogin_Page.allowDeviceLocationAccess(driver);
+		MLogin_Page.allowDeviceLocationAccess(driver);
 		MSearch.searchhomes(driver, searchkeyword);
 	    MFilterResults_Page.clickFilterOption(driver);
 	    MFilterResults_Page.clickFilterByKeyword(driver, keyword); 
