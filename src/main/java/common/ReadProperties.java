@@ -24,8 +24,8 @@ public class ReadProperties {
 		
 		try {
         globalProp=new Properties();
-		FileInputStream in=new FileInputStream("/Users/angee/EclipseProjects/XOMEGRID/src/test/resources/global.properties");
-        //FileInputStream in=new FileInputStream("C:\\EclipseProjects\\XOMEGRID\\src\\test\\resources\\global.properties");
+		FileInputStream in=new FileInputStream("/Users/angee/EclipseProjects/GRIDXOME/src/test/resources/global.properties");
+        //FileInputStream in=new FileInputStream("C:\\EclipseProjects\\GRIDXOME\\src\\test\\resources\\global.properties");
         
 		globalProp.load(in);
 		in.close();

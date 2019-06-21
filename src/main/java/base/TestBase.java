@@ -61,9 +61,9 @@ public class TestBase {
 
 	    public static String androidORios = "";
 	    //For Mac -comment out if using for windows
-	    public static String folderpath = "/Users/angee/EclipseProjects/XOMEGRID/screencaptures";
+	    public static String folderpath = "/Users/angee/EclipseProjects/GRIDXOME/screencaptures";
 		//For Windows -comment out if using for mac
-	    //public static String folderpath = "C:\\EclipseProjects\\XOMEGRID\\screencaptures";
+	    //public static String folderpath = "C:\\EclipseProjects\\GRIDXOME\\screencaptures";
 	    
 	    public static String runonrealdevice = "";
 	    public static String methodname = "";
